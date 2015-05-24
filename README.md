@@ -16,7 +16,7 @@
 - shopping for furniture
 - Ask landlords for videos of apartments
 
-##### Getting Around
+### Getting Around
 -----------------------
 - biking
 	- tips/tricks?
@@ -29,7 +29,7 @@
 - walk
 - ferry
 
-##### Buying a Laptop
+### Buying a Laptop
 -----------------------
 - Student discount
 - Apple discount
@@ -37,21 +37,21 @@
 - Macbook Air
 - Macs in General
 
-##### HealthCare
+### HealthCare
 -----------------------
 - Your options
 - Signing up
 
-##### Asking Questions
+### Asking Questions
 -----------------------
 - Email
 - Twitter
 
-##### Quitting your Job
+### Quitting your Job
 -----------------------
 - Advice
 
-##### How We Got There
+### How We Got There
 -----------------------
 - Flying or driving?
 
