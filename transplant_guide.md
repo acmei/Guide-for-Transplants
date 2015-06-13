@@ -43,11 +43,11 @@ Lots of homeless. The oldest neighborhood in Seattle!
 **Capitol Hill**  
 Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing and fun. Expect to pay about $2000/month for a one bedroom apartment.
 
-  - *Tacos Chukis | 219 Broadway E (Upstairs)*
+  - *Tacos Chukis | 219 Broadway E (Upstairs)*  
     Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
 
 
-  - *Julia’s on Broadway | 300 Broadway E*
+  - *Julia’s on Broadway | 300 Broadway E*  
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union**  
