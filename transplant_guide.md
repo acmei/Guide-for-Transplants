@@ -43,11 +43,11 @@ Lots of homeless. The oldest neighborhood in Seattle!
 **Capitol Hill**  
 Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing and fun. Expect to pay about $2000/month for a one bedroom apartment.
 
-  - Tacos Chukis | 219 Broadway E (Upstairs)
+  - *Tacos Chukis | 219 Broadway E (Upstairs)*
     Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
 
 
-  - Julia’s on Broadway | 300 Broadway E
+  - *Julia’s on Broadway | 300 Broadway E*
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union**  
@@ -56,6 +56,12 @@ Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neig
 
 Getting Around
 --------------
+
+**ORCA LIFT**  
+So… you’re poor! Since it’s likely you’ll have zero income once attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus fare ($1.50 compared to the regular $2.50 and $2.75 during peak hours)! Since this is such a great perk, you know there’s a ton of bureaucracy behind it. To apply for a reduced fare bus pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices (during their very restricted hours) and provide proof of your eligibility and your identity. We’ll warn you now: they’re very picky of how you prove your eligibility. If last year’s taxes don’t fall under the line of double poverty level ($23,540 for single household; $31,860 for two) then you’ll need to submit a request for your employment history (which can be done at the enrollment office). Expect it to take about a week, but you can ask the enrollment office to mail your ORCA LIFT card to your home so you don’t have to find another time to visit before their 5 PM closing.  
+
+Note: If you’re applying for the free Apple Care healthcare (which you can do at some of the ORCA LIFT enrollment offices), you’ll be able to skip this step since your lack of income will be verified then.
+
 - biking
   - tips/tricks?
 - transit
