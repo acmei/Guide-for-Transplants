@@ -1,1 +1,1 @@
-Working draft of a guide for transplants of the Ada Developers Academy program.
+Working draft of guide/orientation packet for transplants of the Ada Developers Academy program.
