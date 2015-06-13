@@ -42,6 +42,5 @@ Seattle Bike Shops
 ------------------
 Once you’re here, you might want to have someone tune up your bike. These places also sell gear.
 
-  - *20/20 Cycle | 2020 E Union (Capitol Hill)*
+  - **20/20 Cycle | 2020 E Union (Capitol Hill)**
     These guys have a ton of knowledge and are really kind! Their gear can get a bit boutique in price, but they sell items for all kinds of budgets and will even make an order for you. Their tune-ups cost about $65 but you’ll have the peace of mind it’s being done by a professional. They also sell used bikes at a reasonable price.
-    
