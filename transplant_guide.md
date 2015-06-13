@@ -6,11 +6,13 @@ Things You'll Need
 ------------------
 Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
 
-- **Rain Jacket(s)**
+- **Rain Jacket(s)**-
   Though great brand name ones can be thrifted right here in Seattle.
-- **Comfortable Shoes**
+
+- **Comfortable Shoes**-
   Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again.
-- **A Bike?**
+
+- **A Bike?**-
   Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is super bike friendly.
 
 
@@ -129,7 +131,7 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
   - **Get Internet! Cable! Utilities!**
 
     If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location.
-    
+
   - **Get a library card!**
 
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
