@@ -17,6 +17,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
 Housing
 -------
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**
+
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
 
 - microhousing or apodments
@@ -36,9 +37,11 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 Neiborhoods
 -----------
 **Pioneer Square**
+
 Lots of homeless. The oldest neighborhood in Seattle!
 
 **Capitol Hill**
+
 Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing and fun. Expect to pay about $2000/month for a one bedroom apartment.
 
   - Tacos Chukis | 219 Broadway E (Upstairs)
@@ -49,6 +52,7 @@ Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nigh
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union**
+
 Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago. 
 
 
@@ -115,10 +119,17 @@ I’M IN SEATTLE!...Now What?
 Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-damn-totally-necessary things:
 
   - **Change your mailing address!**
+
     USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also send you a bunch of moving-in coupons. (Also don’t forget to update your bank info, Netflix account and social media profiles.)
+
   - **Register to vote!**
+
     Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!! 
+
   - **Get Internet! Cable! Utilities!**
+
     If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location.
+    
   - **Get a library card!**
+
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
