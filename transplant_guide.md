@@ -38,10 +38,10 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 Neiborhoods
 -----------
 **Pioneer Square**  
-Lots of homeless. The oldest neighborhood in Seattle!
+Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
 
 **Capitol Hill**  
-Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing and fun. Expect to pay about $2000/month for a one bedroom apartment.
+Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment.
 
   - *Tacos Chukis | 219 Broadway E (Upstairs)*  
     Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
@@ -55,6 +55,9 @@ Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels lik
 
 **Lower Queen Anne**  
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
+
+**Belltown**
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
 
 
 Getting Around
