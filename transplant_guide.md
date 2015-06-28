@@ -51,7 +51,10 @@ Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nigh
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union**  
-Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago. 
+Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago. 
+
+**Lower Queen Anne**  
+Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
 
 
 Getting Around
