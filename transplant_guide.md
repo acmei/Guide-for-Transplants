@@ -34,6 +34,13 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 - shopping for furniture
 - Ask landlords for videos of apartments
 
+Getting Your Things to Seattle
+------------------------------
+- USPS
+- UPS
+- Amtrak
+- luggage
+- Moving companies
 
 Neiborhoods
 -----------
@@ -56,7 +63,7 @@ Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels lik
 **Lower Queen Anne**  
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
 
-**Belltown**
+**Belltown**  
 Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
 
 
