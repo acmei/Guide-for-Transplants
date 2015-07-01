@@ -34,10 +34,10 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 - shopping for furniture
 - Ask landlords for videos of apartments
 
-[Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)
-[Craigslist - Seattle](http://seattle.craigslist.org/)
-[Lee & Associates](http://www.leeandassociatespm.com/)
-[Windermere Property Management](http://www.wpmnorthwest.com/rentals)
+[Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
+[Craigslist - Seattle](http://seattle.craigslist.org/)  
+[Lee & Associates](http://www.leeandassociatespm.com/)  
+[Windermere Property Management](http://www.wpmnorthwest.com/rentals)  
 
 
 Getting Your Things to Seattle
@@ -52,7 +52,7 @@ Getting Your Things to Seattle
 Neighborhoods
 -----------
 
-(seattle-neighborhood-map.jpg "Seattle Neighborhoods")  
+![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")  
 
 **Pioneer Square**  
 Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
