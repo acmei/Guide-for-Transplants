@@ -38,6 +38,7 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 [Craigslist - Seattle](http://seattle.craigslist.org/)  
 [Lee & Associates](http://www.leeandassociatespm.com/)  
 [Windermere Property Management](http://www.wpmnorthwest.com/rentals)  
+[Hamilton Urban Partners](https://www.hamiltonurban.com/residents/listings/seattle/)
 
 
 Getting Your Things to Seattle
