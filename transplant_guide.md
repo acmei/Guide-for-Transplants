@@ -13,7 +13,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again.
 
 - **A Bike?**  
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is super bike friendly.
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.
 
 
 Housing
@@ -42,7 +42,8 @@ Getting Your Things to Seattle
 - luggage
 - Moving companies
 
-Neiborhoods
+
+Neighborhoods
 -----------
 **Pioneer Square**  
 Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
@@ -65,6 +66,18 @@ Quieter more chill area of Seattle, that's a little more pricey. Located right b
 
 **Belltown**  
 Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
+
+**Central District**  
+Info about CD
+
+**First Hill**  
+Info about First Hill
+
+**Fremont**  
+Info about Fremont
+
+**Ballard**  
+Info about Ballard
 
 
 Getting Around
@@ -119,6 +132,12 @@ Asking Questions
 ----------------
 - Email
 - Twitter
+- We moved too! We can help answer questions if you have them
+  - Person 1
+  - Person 2
+  - Person 3
+  - Person 4
+  - Person 5
 
 
 Quitting your Job
