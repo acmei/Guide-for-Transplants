@@ -24,10 +24,10 @@ Housing
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
 
-*Seattle's 20 Day Notification*  
+**Seattle's 20 Day Notification**  
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
 
-*Garbage*  
+**Garbage**  
 Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
 
 - microhousing or apodments
@@ -174,7 +174,7 @@ I’M IN SEATTLE!...Now What?
 Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-damn-totally-necessary things:
 
   - **Change your mailing address!**  
-    USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also send you a bunch of moving-in coupons. (Also don’t forget to update your bank info, Netflix account and social media profiles.)
+    USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also notify those sending you mail that your address has changed to the new address. (Also don’t forget to update your bank/investment info, Netflix account and social media profiles.)
 
   - **Register to vote!**  
     Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!! 
@@ -184,3 +184,8 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
 
   - **Get a library card!**  
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
+
+  - **Update your driver's license**
+    What's the timeline?
+
+  - 
