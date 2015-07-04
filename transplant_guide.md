@@ -32,7 +32,17 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 
 - microhousing or apodments
 - realtors
-- avg pricing of apartments by neighborhood
+- avg pricing of apartments by neighborhood  
+  - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
+    - Expected Rental Price equation from the article   
+      SQFT = square footage in hundreds  
+      BATH = # of bathrooms  
+      BED = # of bedrooms  
+
+      Price = Base Price of neighborhood ($X) + Square Footage(SQFT * 69.68) + (BATH * 322) + (BED * 107) = RENT
+
+      For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.  
+      Price = Base Price of U-District (591) + Square Footage(5 * 69.68) + (1 * 322) + (1 * 107) = $1368.40  
 - neighborhood map
 - location of school
 - craigslist, padmapper
@@ -132,7 +142,7 @@ Buying a Laptop
 
 HealthCare
 ----------
-- Your options (Washington Apple Health - Medicaid)
+- Your options [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
 - Signing up
 
 
