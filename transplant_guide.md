@@ -15,7 +15,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again.
 
 - **A Bike?**  
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.  
   [Read our in-depth biking guide here](/car_to_bike.md)
 
 
@@ -24,10 +24,10 @@ Housing
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
 
-*Seattle's 20 Day Notification*
+*Seattle's 20 Day Notification*  
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
 
-*Garbage*
+*Garbage*  
 Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
 
 - microhousing or apodments
