@@ -39,10 +39,10 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
       BATH = # of bathrooms  
       BED = # of bedrooms  
 
-      Price = Base Price of neighborhood ($X) + Square Footage(SQFT * 69.68) + (BATH * 322) + (BED * 107) = RENT
+      RENT = Base Price of neighborhood ($X) + (SQFT * 69.68) + (BATH * 322) + (BED * 107)
 
       For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.  
-      Price = Base Price of U-District (591) + Square Footage(5 * 69.68) + (1 * 322) + (1 * 107) = $1368.40  
+      RENT = Base Price of U-District (591) + (5 * 69.68) + (1 * 322) + (1 * 107) 
 - neighborhood map
 - location of school
 - craigslist, padmapper
