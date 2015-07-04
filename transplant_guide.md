@@ -1,6 +1,8 @@
 Guide for Transplants
 =====================
 
+Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle when we migrated over, so here it is. First of all, this is a huge step and while it may seems scary, try not to fret. You have a lots of supporters and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
+
 
 Things You'll Need
 ------------------
