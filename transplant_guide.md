@@ -125,12 +125,14 @@ Buying a Laptop
 - Apple discount
 - Macbook Pro
 - Macbook Air
-- Macs in General
+- Macs in General  
+
+[Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
 HealthCare
 ----------
-- Your options
+- Your options (Washington Apple Health - Medicaid)
 - Signing up
 
 
