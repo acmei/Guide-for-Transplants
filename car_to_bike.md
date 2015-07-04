@@ -11,6 +11,17 @@ Not as hard as it seems! Check your local bike shop for empty bike boxes (they u
 You can ship your bike through USPS, FedEx, USP, or shipbikes.com (who uses FedEx).
 
 
+Buying or Fixing a Bike
+-----------------------
+Seattle has many bike shops that sell both new and used bicycles. If you don't currently have one, you can stop in one of these shops to take a look around and inquire about the bikes that they have.
+
+- **20/20 Cycle | 2020 E Union (Capitol Hill)**  
+  These guys have a ton of knowledge and are really kind! Their gear can get a bit boutique in price, but they sell items for all kinds of budgets and will even make an order for you. Their tune-ups cost about $65 but you’ll have the peace of mind it’s being done by a professional. They also sell used bikes at a reasonable price.
+
+- **Recycled Cycles**
+- **Gregg's in Greenlake**
+
+
 Bike Accessories
 ----------------
 Helmets are enforced in Seattle, so make sure you’ve got one. If it’s suffered any trauma (even falling off the counter), you may want to consider buying a new one since any damage can cause the helmet to be ineffective. 
@@ -28,6 +39,7 @@ Seattle is now a part of the Green Lane Project, so there are a bunch of new pro
 
 Bike lanes that are painted green are a signal for areas where bikes and cars may cross paths. Be alert when in any of  these areas.
 
+
 Locking Your Bike
 -----------------
 There are tons of bike racks around, on the street or in parking garages, so you should never have trouble finding one. If your wheels are quick-release, consider buying two locks: a hefty U-Lock and a thick chain lock. The U-Lock should go around your wheel, the parking rack, and the frame of your bike. The chain can go around your rear wheel and the parking rack. The chain lock isn’t necessary since rear wheels are more custom than front wheels, but it’s nice to not worry about it ever being stolen. Don’t forget to take with you things that aren’t mounted on your bike (e.g. panniers, lights, helmet)! 
@@ -38,11 +50,3 @@ How to Ride the Bus with a Bike
 Never fear! Loading your bike might be nerve-wracking the first time, but you’ll get the hang of it. Don’t forget to make eye contact with your bus driver before getting in front of the bus and if you need help, don’t be afraid to ask. King County has a great list of instructions and also a video tutorial.
 
 [See the full instructions and video here](http://metro.kingcounty.gov/tops/bike/index.html)
-
-
-Seattle Bike Shops
-------------------
-Once you’re here, you might want to have someone tune up your bike. These places also sell gear.
-
-  - **20/20 Cycle | 2020 E Union (Capitol Hill)**  
-    These guys have a ton of knowledge and are really kind! Their gear can get a bit boutique in price, but they sell items for all kinds of budgets and will even make an order for you. Their tune-ups cost about $65 but you’ll have the peace of mind it’s being done by a professional. They also sell used bikes at a reasonable price.

@@ -1,7 +1,7 @@
 Guide for Transplants
 =====================
 
-Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
+Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!g
 
 
 Things You'll Need
@@ -16,12 +16,19 @@ Seattle’s weather and terrain may be different than your home’s so make sure
 
 - **A Bike?**  
   Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.
+  [Read our in-depth biking guide here](/car_to_bike.md)
 
 
 Housing
 -------
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
+
+*Seattle's 20 Day Notification*
+Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
+
+*Garbage*
+Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
 
 - microhousing or apodments
 - realtors
