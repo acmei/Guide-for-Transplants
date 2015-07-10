@@ -1,10 +1,16 @@
 Guide for Transplants
 =====================
 
-Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!g
+Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
 
 
-Things You'll Need
+Misconceptions about Seattle _Amira & Brandi & Kyna_
+----------------------------
+- the rain
+- Seattle freeze
+
+
+Things You'll Need _Amira & Kyna_
 ------------------
 Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
 
@@ -19,7 +25,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   [Read our in-depth biking guide here](/car_to_bike.md)
 
 
-Housing
+Housing _Amira & Elia_
 -------
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
@@ -27,7 +33,7 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 **Seattle's 20 Day Notification**  
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
 
-**Garbage**  
+**Garbage**  _Things to know once your here_
 Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
 
 - microhousing or apodments
@@ -46,48 +52,54 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - neighborhood map
 - location of school
 - craigslist, padmapper
-- transplants from cohort[2]
-- transplants from cohort[1]
-- transplants from cohort[0]
-- moving your things
-- shopping for furniture
-- Ask landlords for videos of apartments
+- transplants from cohort[2] _contacts_
+- transplants from cohort[1] _contacts_
+- transplants from cohort[0] _contacts_
+- shopping for furniture _once you're here_
+- Ask landlords for videos of apartments, skype, facetime, google hangout _apt hunting tips_
 
 [Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
 [Craigslist - Seattle](http://seattle.craigslist.org/)  
 [Lee & Associates](http://www.leeandassociatespm.com/)  
 [Windermere Property Management](http://www.wpmnorthwest.com/rentals)  
 [Hamilton Urban Partners](https://www.hamiltonurban.com/residents/listings/seattle/)
+[Roomster](link?) _charge for membership, houseshare_
 
 
-Getting Your Things to Seattle
+Getting Your Things to Seattle _Anita_
 ------------------------------
 - USPS
 - UPS
+- Fedex
+- Shipbikes.com
 - Amtrak
-- luggage
+- luggage - checked on airlines, charges for overweight (50lbs)
 - Moving companies
+- Driving
+- finances with shipping and moving
 
-
-Neighborhoods
------------
+Neighborhoods _Elia_
+-------------
 
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")  
 
-**Pioneer Square**  
+**Pioneer Square**
 Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
+
+**International District (ID) / Chinatown**
+Info about ID
 
 **Capitol Hill**  
 Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment.
 
-  - *Tacos Chukis | 219 Broadway E (Upstairs)*  
+  - *Tacos Chukis | 219 Broadway E (Upstairs)*  _once you're here_
     Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
 
 
-  - *Julia’s on Broadway | 300 Broadway E*  
+  - *Julia’s on Broadway | 300 Broadway E*  _once you're here_
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
-**South Lake Union**  
+**South Lake Union (SLU)**  
 Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago. 
 
 **Lower Queen Anne**  
@@ -108,8 +120,11 @@ Info about Fremont
 **Ballard**  
 Info about Ballard
 
+**University District (U-District)**
+Info about U-district
 
-Getting Around
+
+Getting Around _Ashley_
 --------------
 
 **ORCA LIFT**  
@@ -124,29 +139,32 @@ Note: If you’re applying for the free Apple Care healthcare (which you can do 
     - apps to help you get around
   - bus
   - train
-- car
-- walk
-- ferry
+- car (talk to Kyna)
+- walking
+- ferry (it's an option)
 
 
-Buying a Laptop
+Buying a Laptop _Ashley_
 ---------------
-- Student discount
-- Apple discount
+- Student discount 
+- Apple discount 
 - Macbook Pro
 - Macbook Air
 - Macs in General  
+- 10% tax in WA
+- warranties
+  - some credit cards have warranties
 
 [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
-HealthCare
-----------
+HealthCare _Anita_
+---------- 
 - Your options [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
 - Signing up
 
 
-Bringing a Pet
+Bringing a Pet _Amira & Ashley input_
 --------------
 *If you’re bringing a pet...*
 
@@ -159,7 +177,7 @@ If you’re flying, get ready to pay. Most airlines charge a $100 fee for bringi
 Flying or driving, consider buying a calming spray or wipes to help your pet cope with traveling. They’re likely to be frightened and scared, so bring treats and remember to check in with them often.
 
 
-Asking Questions
+Asking Questions _Anita_
 ----------------
 - Email
 - Twitter
@@ -171,14 +189,20 @@ Asking Questions
   - Person 5
 
 
-Quitting your Job
+Couch to Crash On _Brandi_
+-----------------
+- contact
+
+
+Quitting your Job _needed?_
 -----------------
 - Advice
 
 
-How We Got to Seattle
----------------------
+How We Got to Seattle _Kyna_
+--------------------- 
 - Flying or driving?
+- parking
 
 
 I’M IN SEATTLE!...Now What?
@@ -193,11 +217,14 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
 
   - **Get Internet! Cable! Utilities!**  
     If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location.
+    - _Comcast? CenturyLink? Wave? Condo Internet?_
 
   - **Get a library card!**  
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
 
-  - **Update your driver's license**
+  - **Change your driver's license**
     What's the timeline?
 
-  - 
+  - **Car registration**
+
+  - **

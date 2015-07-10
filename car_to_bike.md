@@ -49,4 +49,11 @@ How to Ride the Bus with a Bike
 -------------------------------
 Never fear! Loading your bike might be nerve-wracking the first time, but you’ll get the hang of it. Don’t forget to make eye contact with your bus driver before getting in front of the bus and if you need help, don’t be afraid to ask. King County has a great list of instructions and also a video tutorial.
 
+- There's apparently a place to practice putting your bike on a bus downtown. WHAT?
+
 [See the full instructions and video here](http://metro.kingcounty.gov/tops/bike/index.html)
+
+
+Bike Know-Hows
+--------------
+- look at google forum for questions we asked
