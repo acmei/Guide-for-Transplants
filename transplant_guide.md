@@ -2,7 +2,7 @@ Guide for Transplants
 =====================
 
 Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
-g
+
 
 Table of Contents
 -----------------
@@ -19,7 +19,6 @@ Table of Contents
 - [Health Care](#Health Care)
 - [Bringing a Pet](#Bringing a Pet)
 - [Additional Questions?](#Asking Questions)
-
 
 
 Misconceptions About Seattle _Amira & Brandi & Kyna_
@@ -208,14 +207,12 @@ Flying or driving, consider buying a calming spray or wipes to help your pet cop
 
 Asking Questions _Anita_
 ----------------
-- Email
-- Twitter
-- We moved too! We can help answer questions if you have them
-  - Person 1
-  - Person 2
-  - Person 3
-  - Person 4
-  - Person 5
+If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find us on twitter using the lists started by students.
+
+- [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
+- [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
+- [Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)
+- [All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
 
 
 Couch to Crash On _Brandi_
