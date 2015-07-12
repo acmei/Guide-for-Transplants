@@ -160,10 +160,19 @@ Buying a Laptop _Ashley_
 [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
-HealthCare _Anita_
----------- 
-- Your options [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
-- Signing up
+Health Care _Anita_
+----------- 
+
+If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health, or Medicaid. You'll need the following information to apply:
+
+- Your household monthly income.
+- The Social Security numbers and dates of birth for each member of your household.
+- Your immigration information, if that applies to you.
+
+You're able to do this online or in person. The whole process takes approx. 45 minutes. I'd recommend doing it in person. This can be done in conjunction with getting an OrcaLift card so that you don't have to make multiple trips. Additionally, qualifying for Apple Health will autmotically qualify you for the OrcaLift card. The cost of Apple Health is free and as an unemployed student of Ada Developers Academy you should qualify. Coverage will vary depending on the plan you select when you sign up. You can do some research using the Health Plan Finder link below. 
+
+- Sign up: [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
+- Research: [Washing Health Plan Finder](http://www.wahealthplanfinder.org)
 
 
 Bringing a Pet _Amira & Ashley input_
