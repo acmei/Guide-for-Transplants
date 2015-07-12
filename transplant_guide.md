@@ -4,7 +4,24 @@ Guide for Transplants
 Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
 
 
-Misconceptions about Seattle _Amira & Brandi & Kyna_
+Table of Contents
+-----------------
+
+- [Housing](#Housing)
+- [Misconceptions About Seattle](#Misconceptions About Seattle)
+- Things You'll Need
+  - [Car to Bike](/car_to_bike.md)
+- Neighborhoods
+- Getting Your Things to Seattle
+- Getting Around
+- Buying a Laptop
+- Health Care
+- Bringing a Pet
+- Additional Questions?
+- Getting to Seattle
+
+
+Misconceptions About Seattle _Amira & Brandi & Kyna_
 ----------------------------
 - the rain
 - Seattle freeze
@@ -205,11 +222,6 @@ Couch to Crash On _Brandi_
 - contact
 
 
-Quitting your Job _needed?_
------------------
-- Advice
-
-
 How We Got to Seattle _Kyna_
 --------------------- 
 - Flying or driving?
@@ -237,5 +249,3 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
     What's the timeline?
 
   - **Car registration**
-
-  - **
