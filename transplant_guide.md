@@ -4,7 +4,24 @@ Guide for Transplants
 Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
 
 
-Misconceptions about Seattle _Amira & Brandi & Kyna_
+Table of Contents
+-----------------
+
+- [Misconceptions About Seattle](#Misconceptions About Seattle)
+- [Housing](#Housing)
+- [Neighborhoods](#Neighborhoods)
+- [Things You'll Need]
+  - [Car to Bike](/car_to_bike.md)
+- [Getting to Seattle](#How We Got to Seattle)
+- [Getting Your Things to Seattle](#Getting Your Things to Seattle)
+- [Getting Around](#Getting Around)
+- [Buying a Laptop](#Buying a Laptop)
+- [Health Care](#Health Care)
+- [Bringing a Pet](#Bringing a Pet)
+- [Additional Questions?](#Asking Questions)
+
+
+Misconceptions About Seattle _Amira & Brandi & Kyna_
 ----------------------------
 - the rain
 - Seattle freeze
@@ -68,15 +85,17 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 
 Getting Your Things to Seattle _Anita_
 ------------------------------
-- USPS
-- UPS
-- Fedex
-- Shipbikes.com
-- Amtrak
-- luggage - checked on airlines, charges for overweight (50lbs)
+
+There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
+
+- Ship boxes to yourself via: USPS, UPS, FedEx, Amtrak
+- Shipping a bike: [shipBikes.com](http://www.shipbikes.com)
+- Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
 - Moving companies
-- Driving
-- finances with shipping and moving
+- Driving: pack what you can into your car
+
+Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
+
 
 Neighborhoods _Elia_
 -------------
@@ -158,10 +177,19 @@ Buying a Laptop _Ashley_
 [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
-HealthCare _Anita_
----------- 
-- Your options [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
-- Signing up
+Health Care _Anita_
+----------- 
+
+If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health, or Medicaid. You'll need the following information to apply:
+
+- Your household monthly income.
+- The Social Security numbers and dates of birth for each member of your household.
+- Your immigration information, if that applies to you.
+
+You're able to do this online or in person. The whole process takes approx. 45 minutes. I'd recommend doing it in person. This can be done in conjunction with getting an OrcaLift card so that you don't have to make multiple trips. Additionally, qualifying for Apple Health will autmotically qualify you for the OrcaLift card. The cost of Apple Health is free and as an unemployed student of Ada Developers Academy you should qualify. Coverage will vary depending on the plan you select when you sign up. You can do some research using the Health Plan Finder link below. 
+
+- Sign up: [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
+- Research: [Washing Health Plan Finder](http://www.wahealthplanfinder.org)
 
 
 Bringing a Pet _Amira & Ashley input_
@@ -179,24 +207,17 @@ Flying or driving, consider buying a calming spray or wipes to help your pet cop
 
 Asking Questions _Anita_
 ----------------
-- Email
-- Twitter
-- We moved too! We can help answer questions if you have them
-  - Person 1
-  - Person 2
-  - Person 3
-  - Person 4
-  - Person 5
+If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find us on twitter using the lists started by students.
+
+- [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
+- [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
+- [Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)
+- [All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
 
 
 Couch to Crash On _Brandi_
 -----------------
 - contact
-
-
-Quitting your Job _needed?_
------------------
-- Advice
 
 
 How We Got to Seattle _Kyna_
@@ -226,5 +247,3 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
     What's the timeline?
 
   - **Car registration**
-
-  - **
