@@ -7,18 +7,18 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 Table of Contents
 -----------------
 
-- [Misconceptions About Seattle](#Misconceptions About Seattle)
-- [Housing](#Housing)
-- [Neighborhoods](#Neighborhoods)
-- [Things You'll Need]
+- [Misconceptions About Seattle](#misconceptions-about-seattle)
+- [Housing](#housing)
+- [Neighborhoods](#neighborhoods)
+- [Things You'll Need](#things-you-will-need)
   - [Car to Bike](/car_to_bike.md)
-- [Getting to Seattle](#How We Got to Seattle)
-- [Getting Your Things to Seattle](#Getting Your Things to Seattle)
-- [Getting Around](#Getting Around)
-- [Buying a Laptop](#Buying a Laptop)
-- [Health Care](#Health Care)
-- [Bringing a Pet](#Bringing a Pet)
-- [Additional Questions?](#Asking Questions)
+- [Getting to Seattle](#how-we-got-to-seattle)
+- [Getting Your Things to Seattle](#getting-your-things-to-seattle)
+- [Getting Around](#getting-around)
+- [Buying a Laptop](#buying-a-laptop)
+- [Health Care](#health-care)
+- [Bringing a Pet](#bringing-a-pet)
+- [Additional Questions?](#asking-questions)
 
 
 Misconceptions About Seattle _Amira & Brandi & Kyna_
@@ -27,8 +27,8 @@ Misconceptions About Seattle _Amira & Brandi & Kyna_
 - Seattle freeze
 
 
-Things You'll Need _Amira & Kyna_
-------------------
+Things You Will Need _Amira & Kyna_
+--------------------
 Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
 
 - **Rain Jacket(s)**  
