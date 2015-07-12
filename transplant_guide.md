@@ -68,15 +68,17 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 
 Getting Your Things to Seattle _Anita_
 ------------------------------
-- USPS
-- UPS
-- Fedex
-- Shipbikes.com
-- Amtrak
-- luggage - checked on airlines, charges for overweight (50lbs)
+
+There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
+
+- Ship boxes to yourself via: USPS, UPS, FedEx, Amtrak
+- Shipping a bike: Shipbikes.com
+- Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
 - Moving companies
-- Driving
-- finances with shipping and moving
+- Driving: pack what you can into your car
+
+Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
+
 
 Neighborhoods _Elia_
 -------------
