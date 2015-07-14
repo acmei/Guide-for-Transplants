@@ -191,6 +191,7 @@ You can apply online or in person. Signing up for Apple Health can be done in co
 
 - Learn More: [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
 - Apply: [Washington Health Plan Finder](http://www.wahealthplanfinder.org) _Note that this site is often down on the weekends for routine maintenance_
+  - Create an account to apply for Apple Health
 
 
 Bringing a Pet _Amira & Ashley input_
