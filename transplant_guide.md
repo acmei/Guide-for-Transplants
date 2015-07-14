@@ -190,7 +190,8 @@ If you're in need of healthcare coverage, once moved to Seattle you can sign up 
 You can apply online or in person. Signing up for Apple Health can be done in conjunction with getting an OrcaLift card so that you don't have to make multiple trips. Additionally, qualifying for Apple Health will automatically qualify you for the OrcaLift card (See the 'Getting Around' section for more information on OrcaLift). The cost of Apple Health is FREE and as an unemployed student of Ada Developers Academy you should qualify. Apple Health coverage includes family doctor visits, preventative care, and prescription medication among other things. Coverage may vary depending on the plan you select when you sign up. You can read up on the individual plans and Apple Health at the links below.
 
 - Learn More: [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
-- Apply: [Washington Health Plan Finder](http://www.wahealthplanfinder.org) _Note that this site is often down on the weekends for routine maintenance_
+- Apply: [Washington Health Plan Finder](http://www.wahealthplanfinder.org) _Note: site is often down on the weekends for maintenance_
+  - Create an account to apply for Apple Health
 
 
 Bringing a Pet _Amira & Ashley input_
