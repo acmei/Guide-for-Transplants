@@ -58,7 +58,7 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - realtors
 - avg pricing of apartments by neighborhood  
   - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
-    - Expected Rental Price equation from the article   
+    - Expected Rental Price equation from the article
       SQFT = square footage in hundreds  
       BATH = # of bathrooms  
       BED = # of bedrooms  
@@ -110,7 +110,7 @@ Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle
 Info about ID
 
 **Capitol Hill**  
-Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment.
+Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment. Hard to find parking and if your building has a parking lot or garage, expect to pay more for it. A good neighborhood for someone who likes to be right in the middle of it all.
 
   - *Tacos Chukis | 219 Broadway E (Upstairs)*  _once you're here_
     Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
@@ -120,27 +120,33 @@ Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union (SLU)**  
-Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago. 
+Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets(it is sanwiched between I-5 and Highway 99).
+A lot of the buildings do have roof decks, which can be awesome for fourth of July fireworks displays on Lake Union and New Year's fireworks from the Space Needle. Make friends with people who live here so you can hang out on their roofs and boats ;-)
 
 **Lower Queen Anne**  
-Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
+Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle). Parking/traffic can be rough in this area because of all the events at the Seattle center, but it is a nice central place to live and sometimes you can find studios or one bedrooms in this area in slightly older buildings which can make it more affordable.
 
 **Belltown**  
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
 
 **Central District**  
 Info about CD
 
 **First Hill**  
-Info about First Hill
+Used to also be referred to as pill hill, because there are a lot of hospitals in the area. If you are easily awoken by ambulance sirens, it may not be the best place to live. The location is very convenient as it is close to downtown and to Capitol Hill, but there is not often a ton of open housing in the area. There are a few new complexes under construction in the area but will likely be pretty pricey when they open, and there is at least one microhousing building in the neighborhood.
 
 **Fremont**  
 Info about Fremont
 
 **Ballard**  
-Info about Ballard
+Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricy given it is brand new.
+Getting downtown via transit isn't impossible, but because it is further west, it can make getting to sort of inconvenient at times.  It would not be convenient to commute to an east side (aka Bellevue (Expedia/Concur) or Redmond (Microsoft)) internship or job, but if you are coming from a place where you have an hour+ commute, maybe it wouldn't be that noticeable to you.  
 
 **University District (U-District)**
+This is where the University of Washington is located, so there are a lot of rental properties in this area. There are a lot of students in this neighborhood which can be both good and bad- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late.
+It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada.
+It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. Eventually it will be connnected to downtown via light rail, but that won't happen until 2021, so probably not a strong consideration at this point.
+
 Info about U-district
 
 
@@ -166,8 +172,8 @@ Note: If you’re applying for the free Apple Care healthcare (which you can do 
 
 Buying a Laptop _Ashley_
 ---------------
-- Student discount 
-- Apple discount 
+- Student discount
+- Apple discount
 - Macbook Pro
 - Macbook Air
 - Macs in General  
@@ -179,7 +185,7 @@ Buying a Laptop _Ashley_
 
 
 Health Care _Anita_
------------ 
+-----------
 
 If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health -- Medicaid. You'll need the following information to apply:
 
@@ -223,7 +229,7 @@ Couch to Crash On _Brandi_
 
 
 How We Got to Seattle _Kyna_
---------------------- 
+---------------------
 - Flying or driving?
 - parking
 
@@ -236,7 +242,7 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
     USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also notify those sending you mail that your address has changed to the new address. (Also don’t forget to update your bank/investment info, Netflix account and social media profiles.)
 
   - **Register to vote!**  
-    Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!! 
+    Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!!
 
   - **Get Internet! Cable! Utilities!**  
     If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location.
