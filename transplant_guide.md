@@ -132,8 +132,11 @@ Quieter more chill area of Seattle, that's a little more pricey. Located right b
 **Belltown**  
 Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
 
+**Beacon Hill**
+
+
 **Central District**  
-Info about CD
+The central district
 
 **First Hill**  
 Used to also be referred to as pill hill, because there are a lot of hospitals in the area. If you are easily awoken by ambulance sirens, it may not be the best place to live. The location is very convenient as it is close to downtown and to Capitol Hill, but there is not often a ton of open housing in the area. There are a few new complexes under construction in the area but will likely be pretty pricey when they open, and there is at least one microhousing building in the neighborhood.
@@ -150,6 +153,8 @@ This is where the University of Washington is located, so there are a lot of ren
 It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada.
 It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. Eventually it will be connnected to downtown via light rail, but that won't happen until 2021, so probably not a strong consideration at this point.
 
+**West Seattle**
+People often think of West Seattle as being really far away because you have to cross a bridge to get there, but it isn't actually that far away, especially from downtown.
 
 
 Getting Around _Ashley_
