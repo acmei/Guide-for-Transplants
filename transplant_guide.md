@@ -24,8 +24,8 @@ Table of Contents
 
 Misconceptions About Seattle _Amira & Brandi & Kyna_
 ----------------------------
-- the rain
-- Seattle freeze
+- The rain - there are plenty of places that get just as much, if not more rain than Seattle. (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time.
+- Seattle freeze - you're moving here with 23 built-in friends!! Outside of that, like anywhere else, it depends on the person.
 
 
 Things You Will Need _Amira & Kyna_
@@ -36,7 +36,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Though great brand name ones can be thrifted right here in Seattle.
 
 - **Comfortable Shoes**  
-  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again.
+  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again. If you plan on walking being your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**  
   Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.  
@@ -58,7 +58,7 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - realtors
 - avg pricing of apartments by neighborhood  
   - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
-    - Expected Rental Price equation from the article   
+    - Expected Rental Price equation from the article
       SQFT = square footage in hundreds  
       BATH = # of bathrooms  
       BED = # of bedrooms  
@@ -120,7 +120,7 @@ Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union (SLU)**  
-Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago. 
+Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago.
 
 **Lower Queen Anne**  
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
@@ -166,8 +166,8 @@ Note: If you’re applying for the free Apple Care healthcare (which you can do 
 
 Buying a Laptop _Ashley_
 ---------------
-- Student discount 
-- Apple discount 
+- Student discount
+- Apple discount
 - Macbook Pro
 - Macbook Air
 - Macs in General  
@@ -179,7 +179,7 @@ Buying a Laptop _Ashley_
 
 
 Health Care _Anita_
------------ 
+-----------
 
 If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health -- Medicaid. You'll need the following information to apply:
 
@@ -223,9 +223,14 @@ Couch to Crash On _Brandi_
 
 
 How We Got to Seattle _Kyna_
---------------------- 
-- Flying or driving?
-- parking
+---------------------
+- **Flying**
+  - So you plan on flying here.. see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
+- **Driving**
+  -  Two options to get your car here:
+    - Shipping: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
+    - Driving: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
+  - Parking: If you've never lived in a big city, you may not know.. having a car in Seattle is VERY EXPENSIVE (especially in downtown)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
 
 I’M IN SEATTLE!...Now What?
@@ -236,7 +241,7 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
     USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also notify those sending you mail that your address has changed to the new address. (Also don’t forget to update your bank/investment info, Netflix account and social media profiles.)
 
   - **Register to vote!**  
-    Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!! 
+    Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!!
 
   - **Get Internet! Cable! Utilities!**  
     If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location.
@@ -246,6 +251,7 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
 
   - **Change your driver's license**
-    What's the timeline?
+    By law, you have 30 days to change your driver's license and register your car with WA. But let's be honest, you're going to have a lot on your plate. So unless you happen to have a really nosy neighbor, I wouldn't stress it too much. Just make sure you get it done.
 
   - **Car registration**
+    Just do it. When you change your driver's license.
