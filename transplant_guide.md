@@ -24,8 +24,10 @@ Table of Contents
 
 Misconceptions About Seattle _Amira & Brandi & Kyna_
 ----------------------------
-- the rain
-- Seattle freeze
+- **The Rain**
+  Yes, it does rain most of the year. But when it does rain, it's more of a continous drizzle. And during the summer it is quite dry and hot.
+- **Seattle Freeze**
+  This also won't be so much of a problem, as you'll instantly have 23 other contacts/friends/peers. People are can be quite friendly.
 
 
 Things You Will Need _Amira & Kyna_
@@ -126,7 +128,7 @@ Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels lik
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
 
 **Belltown**  
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that it's sketchy.
 
 **Central District**  
 Info about CD
@@ -225,6 +227,7 @@ Couch to Crash On _Brandi_
 How We Got to Seattle _Kyna_
 --------------------- 
 - Flying or driving?
+  - If flying, be sure to take cold prevention precautions! It's not nice arriving only to come down with a cold a few days later!
 - parking
 
 
