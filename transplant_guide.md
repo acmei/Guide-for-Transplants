@@ -104,10 +104,13 @@ Neighborhoods _Elia_
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")  
 
 **Pioneer Square**
-Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
+The oldest neighborhood in Seattle! There are sometimes cheap studios and one bedrooms here, but more are getting renovated into expensive loft-like spaces.
+This is close to the football and baseball stadiums, so sometimes traffic can be bad, and if you have a car and no dedicated parking that can be a big problem. Several of the homeless shelters/missions are in this area, so there are quite a lot of homeless people in the area, which could be nerve-wracking walking home alone at night if you are not moving to Seattle from a city. It is just south of downtown, so walking to class is definitely doable.
+If seeing drug use on the streets near where you live feels scary, this may not be the best neighborhood to look in for you. No real grocery store in this area.
 
 **International District (ID) / Chinatown**
-Info about ID
+The ID used to be called Chinatown, so this is its new politically correct name. It is right next to Pioneer Square, and there is not a super clear line of deliniation between the two neighborhoods, so a lot of the commentary about Pioneer Square applies here.
+As the name implies, it is an eclectic neighborhood, and there is a lot of really delicious, fairly affordable places to eat, including a lot of chinese, vietnamese and korean restaurants. The further west (away from downtown) you go in the ID the more residential it becomes. Main grocery stores are asian markets (like Uwajimaya).
 
 **Capitol Hill**  
 Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment. Hard to find parking and if your building has a parking lot or garage, expect to pay more for it. A good neighborhood for someone who likes to be right in the middle of it all.
@@ -120,7 +123,7 @@ Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 **South Lake Union (SLU)**  
-Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets(it is sanwiched between I-5 and Highway 99).
+Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets(it is sandwiched between I-5 and Highway 99).
 A lot of the buildings do have roof decks, which can be awesome for fourth of July fireworks displays on Lake Union and New Year's fireworks from the Space Needle. Make friends with people who live here so you can hang out on their roofs and boats ;-)
 
 **Lower Queen Anne**  
@@ -147,7 +150,6 @@ This is where the University of Washington is located, so there are a lot of ren
 It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada.
 It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. Eventually it will be connnected to downtown via light rail, but that won't happen until 2021, so probably not a strong consideration at this point.
 
-Info about U-district
 
 
 Getting Around _Ashley_
