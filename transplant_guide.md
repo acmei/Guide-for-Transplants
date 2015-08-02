@@ -75,6 +75,7 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - transplants from cohort[0] _contacts_
 - shopping for furniture _once you're here_
 - Ask landlords for videos of apartments, skype, facetime, google hangout _apt hunting tips_
+  If you don't mind living with strangers/roommmates, craigslist is where most people in Seattle post looking for housemates.  At the very least, skype with a potential housemate and have them walk around the space, but be wary of sending money before seeing the space in person. This method of house searching is really better done in person (both for your own protection and because a lot of housemates won't rent to someone they haven't met in person), but if you have a place you can crash for about a week, you should be able to find something (good places go quickly) and it can end up being a lot cheaper than solo living, but only embark on this kind of housing search if you feel comfortable-- the place you live while in Ada needs to feel safe and drama free.
 
 [Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
 [Craigslist - Seattle](http://seattle.craigslist.org/)  
@@ -133,16 +134,16 @@ Quieter more chill area of Seattle, that's a little more pricey. Located right b
 Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
 
 **Beacon Hill**
-
+Some places in this neighborhood will be close to the light rail station, which makes it an easy commute into downtown (and also to the airport). It is further south than most of the neighborhoods listed here, but especially if you are close to the light rail, a house here can be cheaper and a good find. There are a couple little retail areas around the light rail with a grocery store, coffee shops, a library and a few bars and restaurants.
 
 **Central District**  
-The central district
+This neighborhood is further east than capitol hill/first hill/the ID, but there is more residential and sometimes cheaper housing available. It is bikeable to downtown (hills not withstanding), and is generally quieter evenings/weekends than neighborhoods with more of a night life. There are a few cute neighborhood bars and good coffee shops though, like Chucks Hop Shop CD, Neighbor Lady, Twilight Exit, Cortona Cafe etc.  
 
 **First Hill**  
 Used to also be referred to as pill hill, because there are a lot of hospitals in the area. If you are easily awoken by ambulance sirens, it may not be the best place to live. The location is very convenient as it is close to downtown and to Capitol Hill, but there is not often a ton of open housing in the area. There are a few new complexes under construction in the area but will likely be pretty pricey when they open, and there is at least one microhousing building in the neighborhood.
 
 **Fremont**  
-Info about Fremont
+Fremont is the self-coined Center of the Universe, and can be a fun place to live if you can find housing-- it often is sparse and expensive. It is the location of the solstice parade (which includes a naked bike ride) and is home to many bars, restaurants, breweries and tap rooms. It is north of queen anne from downtown, or west of Wallingford on the north side of lake union. From downtown, there is a bridge that is low enough it has to open for boat traffic, so that can cause some traffic problems from time to time. It is on the Burke Gilman trail (fun bike ride) and it not too terrible of a bike commute to downtown(but again, hills, because Seattle).
 
 **Ballard**  
 Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricy given it is brand new.
@@ -151,11 +152,10 @@ Getting downtown via transit isn't impossible, but because it is further west, i
 **University District (U-District)**
 This is where the University of Washington is located, so there are a lot of rental properties in this area. There are a lot of students in this neighborhood which can be both good and bad- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late.
 It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada.
-It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. Eventually it will be connnected to downtown via light rail, but that won't happen until 2021, so probably not a strong consideration at this point.
+It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. Eventually it will be connected to downtown via light rail, but that won't happen until 2021, so probably not a strong consideration at this point.
 
 **West Seattle**
-People often think of West Seattle as being really far away because you have to cross a bridge to get there, but it isn't actually that far away, especially from downtown.
-
+People often think of West Seattle as being really far away because you have to cross a bridge to get there, but it isn't actually that far away, especially from downtown, buses run fairly frequently and late. That being said, make sure you are close to a downtown bus route on the West Seattle side. It has a great retail area, Alki beach (which is the peninsula that looks back toward downtown), great parks, a nice farmer's market, good grocery options, and more housing than cap/first hill. Some people say that people who live in West Seattle don't leave unless they have to-- it is definitely a distinctive community. There is also a water taxi to downtown from the east side of Alki, but it doesn't run that frequently or year round, so it is more of a fun adventure than a regular commuting option.
 
 Getting Around _Ashley_
 --------------
