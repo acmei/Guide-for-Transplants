@@ -54,7 +54,10 @@ Apartment renters are required to notify their landlords of their departure from
 **Garbage**  _Things to know once your here_
 Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
 
-- microhousing or apodments
+**Micro-Housing** _Maybe Marleigh could add to this? A warning about thin walls?_
+There are two companies that provide micro-housing: [Footprint](http://liveatfootprint.com/) (who allow pets) and [Apodments](http://apodment.com/) (who don't). That's really their biggest difference. The studio apartments typically come with a twin bed, a mini fridge, a microwave and maybe a few pieces of furniture. Both companies offer a commons lounge with a full range stove and often times a laundry room inside the building. They're great if you're particular about where you want to live in Seattle but don't have the moolah for a studio/1 bedroom. Also, they're relatively the same and brand spanking new so there's (usually) no worries about signing a lease without seeing the place. Crockpots and stovetop burners are _highly_ recommended if you're the cooking type.
+
+
 - realtors
 - avg pricing of apartments by neighborhood  
   - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
@@ -75,6 +78,8 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - transplants from cohort[0] _contacts_
 - shopping for furniture _once you're here_
 - Ask landlords for videos of apartments, skype, facetime, google hangout _apt hunting tips_
+  If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype.
+  
   If you don't mind living with strangers/roommmates, craigslist is where most people in Seattle post looking for housemates.  At the very least, skype with a potential housemate and have them walk around the space, but be wary of sending money before seeing the space in person. This method of house searching is really better done in person (both for your own protection and because a lot of housemates won't rent to someone they haven't met in person), but if you have a place you can crash for about a week, you should be able to find something (good places go quickly) and it can end up being a lot cheaper than solo living, but only embark on this kind of housing search if you feel comfortable-- the place you live while in Ada needs to feel safe and drama free.
 
 [Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
