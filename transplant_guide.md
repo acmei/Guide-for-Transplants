@@ -24,8 +24,9 @@ Table of Contents
 
 Misconceptions About Seattle _Amira & Brandi & Kyna_
 ----------------------------
-- The rain - there are plenty of places that get just as much, if not more rain than Seattle. (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time.
-- Seattle freeze - you're moving here with 23 built-in friends!! Outside of that, like anywhere else, it depends on the person.
+- The Rain - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time.
+- Seattle Freeze - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people).
+- Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
 
 Things You Will Need _Amira & Kyna_
@@ -36,11 +37,14 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Though great brand name ones can be thrifted right here in Seattle.
 
 - **Comfortable Shoes**  
-  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again. If you plan on walking being your main means of transport, rain boots might not be a bad idea either!
+  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again. If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**  
   Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.  
   [Read our in-depth biking guide here](/car_to_bike.md)
+
+- **Your Passport**
+  Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
 
 
 Housing _Amira & Elia_
