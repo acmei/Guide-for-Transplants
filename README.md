@@ -33,7 +33,7 @@ You're moving here with 23 built-in friends!! Then you'll meet their friends, an
 
 ##Housing
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
-Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place! If you find yourself in such a situation, feel free to contact any of the names listed at the bottom of the guide and we'll try to find a place for you to crash.
+Nah, girl! We wouldn’t leave you stranded like that. If you find yourself in such a situation, feel free to contact any of the names listed at the bottom of the guide and we'll try to find a place for you to crash. Ada will likely have some volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear about whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place! 
 
 **Seattle's 20 Day Notification**  
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
@@ -45,7 +45,7 @@ There are two companies that provide micro-housing: [Footprint](http://liveatfoo
 **Rent Pricing**  
 This article creates an equation of how much one can expect to pay in each Seattle neighborhood based on Craigslist data, [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/). Using this equation, you can calculate the expected rental price in each neighborhood based on the number of rooms and square footage of the apartment. See below for an example calculation based on the article.
 
-**Seattle Neighborhoods in Order from Most Expensive to Least Expensive**:  
+_Neighborhoods in Order from Most Expensive to Least Expensive_:  
 - Downtown
 - Belltown
 - Capitol Hill
