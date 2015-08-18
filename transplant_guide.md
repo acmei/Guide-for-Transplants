@@ -119,7 +119,7 @@ Home of Amazon. Bro-town. Not a super pedestrian friendly area, and though more 
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle). Parking/traffic can be rough in this area because of all the events at the Seattle center, but it is a nice central place to live and sometimes you can find studios or one bedrooms in this area in slightly older buildings which can make it more affordable.
 
 **Belltown**  
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. It can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. It can get a bit rowdy, especially on weekend nights. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
 
 **Beacon Hill**  
 Some places in this neighborhood will be close to the light rail station, which makes it an easy commute into downtown (and also to the airport). It is further south than most of the neighborhoods listed here, but especially if you are close to the light rail, a house here can be cheaper and a good find. There are a couple little retail areas around the light rail with a grocery store, coffee shops, a library and a few bars and restaurants.
@@ -137,7 +137,7 @@ Fremont is the self-coined Center of the Universe, and can be a fun place to liv
 Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricey given it is brand new.
 Getting downtown via transit isn't impossible, but because it is further west, it can make getting to sort of inconvenient at times.  It would not be convenient to commute to an east side (aka Bellevue (Expedia/Concur) or Redmond (Microsoft)) internship or job, but if you are coming from a place where you have an hour+ commute, maybe it wouldn't be that noticeable to you.  
 
-**University District (U-District)**
+**University District (U-District)**  
 This is where the University of Washington is located, so there are a lot of rental properties in this area. There are a lot of students in this neighborhood which can be both good and bad- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late. It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada. It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. In 2016, the light rail will connect through Capitol Hill (Broadway & John) to the Montlake side of the U District. 
 
 **West Seattle**  
