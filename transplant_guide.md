@@ -51,7 +51,10 @@ Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
 
 
-- microhousing or apodments
+**Micro-Housing** _Maybe Marleigh could add to this? A warning about thin walls?_
+There are two companies that provide micro-housing: [Footprint](http://liveatfootprint.com/) (who allow pets) and [Apodments](http://apodment.com/) (who don't). That's really their biggest difference. The studio apartments typically come with a twin bed, a mini fridge, a microwave and maybe a few pieces of furniture. Both companies offer a commons lounge with a full range stove and often times a laundry room inside the building. They're great if you're particular about where you want to live in Seattle but don't have the moolah for a studio/1 bedroom. Also, they're relatively the same and brand spanking new so there's (usually) no worries about signing a lease without seeing the place. Crockpots and stovetop burners are _highly_ recommended if you're the cooking type.
+
+
 - realtors
 - avg pricing of apartments by neighborhood
   - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
@@ -72,6 +75,9 @@ Apartment renters are required to notify their landlords of their departure from
 - transplants from cohort[0] _contacts_
 - shopping for furniture _once you're here_
 - Ask landlords for videos of apartments, skype, facetime, google hangout _apt hunting tips_
+  If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype.
+  
+  If you don't mind living with strangers/roommmates, craigslist is where most people in Seattle post looking for housemates.  At the very least, skype with a potential housemate and have them walk around the space, but be wary of sending money before seeing the space in person. This method of house searching is really better done in person (both for your own protection and because a lot of housemates won't rent to someone they haven't met in person), but if you have a place you can crash for about a week, you should be able to find something (good places go quickly) and it can end up being a lot cheaper than solo living, but only embark on this kind of housing search if you feel comfortable-- the place you live while in Ada needs to feel safe and drama free.
 
 [Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
 [Craigslist - Seattle](http://seattle.craigslist.org/)  
@@ -98,45 +104,44 @@ Be wary that shipping lots of boxes will cost a lot. This is one of the greatest
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
 
 **Pioneer Square**  
-Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
+The oldest neighborhood in Seattle! There are sometimes cheap studios and one bedrooms here, but more are getting renovated into expensive loft-like spaces. This is close to the football and baseball stadiums, so sometimes traffic can be bad, and if you have a car and no dedicated parking that can be a big problem. Several of the homeless shelters/missions are in this area, so there are quite a lot of homeless people around. It is just south of downtown, so walking to class is definitely doable. Also, there's no real grocery store in the neighborhood.
 
 **International District (ID) / Chinatown**  
-Info about ID
+It is right next to Pioneer Square, and there is not a super clear line of deliniation between the two neighborhoods, so a lot of the commentary about Pioneer Square applies here. As the name implies, it is an eclectic neighborhood, and there is a lot of really delicious, fairly affordable places to eat, including a lot of chinese, vietnamese and korean restaurants. The further west (away from downtown) you go in the ID the more residential it becomes. Main grocery stores are asian markets (like Uwajimaya).
 
-**Capitol Hill**  
-Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment.
-
-  - *Tacos Chukis | 219 Broadway E (Upstairs)*  _once you're here_
-    Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
-
-  - *Julia’s on Broadway | 300 Broadway E*  _once you're here_
-    Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
-
+**Capitol Hill**   
+Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment. Hard to find parking and if your building has a parking lot or garage, expect to pay more for it. A good neighborhood for someone who likes to be right in the middle of it all. The Brooklyn of Seattle.
 
 **South Lake Union (SLU)**  
-Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago.
+Home of Amazon. Bro-town. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets (it is sandwiched between I-5 and Highway 99) and consistent construction. A lot of the buildings do have roof decks, which can be awesome for fourth of July fireworks displays on Lake Union and New Year's fireworks from the Space Needle. Make friends with people who live here so you can hang out on their roofs and boats ;-)
 
 **Lower Queen Anne**  
-Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
+Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle). Parking/traffic can be rough in this area because of all the events at the Seattle center, but it is a nice central place to live and sometimes you can find studios or one bedrooms in this area in slightly older buildings which can make it more affordable.
 
 **Belltown**  
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that it's sketchy.
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. It can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
+
+**Beacon Hill**  
+Some places in this neighborhood will be close to the light rail station, which makes it an easy commute into downtown (and also to the airport). It is further south than most of the neighborhoods listed here, but especially if you are close to the light rail, a house here can be cheaper and a good find. There are a couple little retail areas around the light rail with a grocery store, coffee shops, a library and a few bars and restaurants.
 
 **Central District**  
-Info about CD
+This neighborhood is further east than Capitol Hill/First Hill/the ID, but there is more residential and sometimes cheaper housing available. It is bikeable to downtown (hills not withstanding), and is generally quieter evenings/weekends than neighborhoods with more of a night life. There are a few cute neighborhood bars and good coffee shops though, like Chucks Hop Shop CD, Neighbor Lady, Twilight Exit, Cortona Cafe etc.  
 
-**First Hill**  
-Info about First Hill
+**First Hill**   
+Used to also be referred to as pill hill, because there are a lot of hospitals in the area. If you are easily awoken by ambulance sirens, it may not be the best place to live. The location is very convenient as it is close to downtown and to Capitol Hill, but there is not often a ton of open housing in the area. There are a few new complexes under construction in the area but will likely be pretty pricey when they open, and there is at least one microhousing building in the neighborhood.
 
 **Fremont**  
-Info about Fremont
+Fremont is the self-coined Center of the Universe, and can be a fun place to live if you can find housing-- it often is sparse and expensive. It is the location of the solstice parade (which includes a naked bike ride) and is home to many bars, restaurants, breweries and tap rooms. It is north of Queen Anne from downtown, or west of Wallingford on the north side of Lake Union. From downtown, there is a bridge that is low enough it has to open for boat traffic, so that can cause some traffic problems from time to time. It is on the Burke Gilman trail (fun bike ride) and it not too terrible of a bike commute to downtown (but again, hills, because Seattle).
 
 **Ballard**  
-Info about Ballard
+Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricey given it is brand new.
+Getting downtown via transit isn't impossible, but because it is further west, it can make getting to sort of inconvenient at times.  It would not be convenient to commute to an east side (aka Bellevue (Expedia/Concur) or Redmond (Microsoft)) internship or job, but if you are coming from a place where you have an hour+ commute, maybe it wouldn't be that noticeable to you.  
 
-**University District (U-District)**  
-Info about U-district
+**University District (U-District)**
+This is where the University of Washington is located, so there are a lot of rental properties in this area. There are a lot of students in this neighborhood which can be both good and bad- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late. It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada. It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. In 2016, the light rail will connect through Capitol Hill (Broadway & John) to the Montlake side of the U District. 
 
+**West Seattle**  
+People often think of West Seattle as being really far away because you have to cross a bridge to get there, but it isn't actually that far away, especially from downtown, buses run fairly frequently and late. That being said, make sure you are close to a downtown bus route on the West Seattle side. It has a great retail area, Alki beach (which is the peninsula that looks back toward downtown), great parks, a nice farmer's market, good grocery options, and more housing than cap/first hill. Some people say that people who live in West Seattle don't leave unless they have to-- it is definitely a distinctive community. There is also a water taxi to downtown from the east side of Alki, but it doesn't run that frequently or year round, so it is more of a fun adventure than a regular commuting option.
 
 ##Getting Around
 
