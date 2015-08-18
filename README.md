@@ -144,7 +144,7 @@ So you plan on flying here...see - [Getting Your Things to Seattle](#getting-you
 Two options to get your car here:
   - _Shipping_: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
   - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
-  
+
 **Parking**  
   If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
@@ -156,7 +156,7 @@ There are several ways to get your things to Seattle. These are some of the meth
 - Ship boxes to yourself via: [USPS](https://www.usps.com/ship/welcome.htm), [UPS](http://www.ups.com/content/us/en/shipping), [FedEx](http://www.fedex.com/us/ship), [Amtrak](http://www.amtrak.com/express-shipping)
 - Shipping a bike: [shipBikes.com](http://www.shipbikes.com)
 - Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
-- Moving companies
+- Moving companies (none of the cohort 3 adies used this method, if you find a good deal, let us know!)
 - Driving: pack what you can into your car
 
 Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
