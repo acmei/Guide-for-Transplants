@@ -270,7 +270,7 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
   * __Metro Transit__ has jurisdiction of King County, which includes Seattle, Shoreline, Burien, Kent, Bellevue, Kirkland, and Redmond. All Metro buses are yellow on the bottom. Metro neighborhood buses are dark green/blue/purple on top, depending on the model of the bus. Rapidrides are red on top. Rapidride bonus: you can pay at the bus stop & board from any door. This makes boarding & deboarding much faster & thus improves ride times. Rapidride bonus 2.0: another chance to catch magic in action-- [they are all Gryffindor themed](https://www.google.com/images?q=metro+rapidride).
   * __Community Transit__ has jurisdiction over Snohomish County, which includes Lynnwood, Edmonds, Mountlake Terrace, Bothell, Marysville, and... Snohomish. CT buses are also mostly white with some blue, and CT buses can often but not always be distinguished by their double-decker ostentaisousness. If you want a view during your long commute, consider moving into CT's jurisdiction! ;)
   * __Intercity Transit__ has jurisdiction over Thurston County, which is a distant land from Seattle. IT buses are mostly blue with some white and dark green. They can be distinguished from similarly colored buses by patch of dark green at the rear end of the bus and the little swoop of gray or white at the top.
-  * Pierce Transit also exists but currently has no routes into Seattle. PT operates in Pierce County, which lives between King and Thurston counties. Enjoy the irony of it having no routes into the city when IT does.
+  * Pierce Transit also exists but currently has no routes into Seattle. PT operates in Pierce County, which lives between King and Thurston counties. Enjoy the not-really-irony of it having no routes to Seattle when IT has several. This is what happens when people in your neighborhood don't vote for transit.
 
 [restructure]: http://metro.kingcounty.gov/programs-projects/link-connections/
 
@@ -370,6 +370,7 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 Anita (moved from Ohio):  
 Elia (moved from Montana):  
 Amira (moved from California):  
+Jeri (Seattle born & raised): <-- can I join in?  
 
 - [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
 - [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
