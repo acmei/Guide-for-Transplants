@@ -14,7 +14,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
 - [Bringing a Pet](#bringing-a-pet)
 - [Getting Around](#getting-around)
-  - [Car to Bike](/car_to_bike.md)
+  - [Biking in Seattle](/car_to_bike.md)
 - [Buying a Laptop](#buying-a-laptop)
 - [When You Get Here](#when-you-get-here)
 - [Health Care](#health-care)
@@ -27,7 +27,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
 
-##Things You Will Need
+##Things You May Need
 Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
 
 - **Rain Jacket(s)**

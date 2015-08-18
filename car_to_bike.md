@@ -32,6 +32,8 @@ When biking at night, it’s important to be seen. Make sure your bike is equipp
 
 If biking is your primary mode of transportation, you might want to consider racks and panniers for storage. (Panniers can be pricey, but there are some make-your-own options online. Do what sounds best to you.) Biking with a backpack is inefficient in terms of space and can get pretty sweaty on your back when you’re climbing those hills. A rack that can hold 50 lbs and panniers that hold about 25 lbs each should be sufficient to hold a week’s worth of groceries for a single person.
 
+There are requirements for reflectors as well as helmets. You can read more about these requirements and rules [here](http://www.seattle.gov/transportation/bikecode.htm). Section 11.44.160 is on lamps and reflectors.
+
 
 Bike Boxes and Protected Double Bike Lanes
 ------------------------------------------
