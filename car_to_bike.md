@@ -44,7 +44,7 @@ Bike lanes that are painted green are a signal for areas where bikes and cars ma
 
 Locking Your Bike
 -----------------
-There are tons of bike racks around, on the street or in parking garages, so you should never have trouble finding one. If your wheels are quick-release, consider buying two locks: a hefty U-Lock and a thick chain lock. The U-Lock should go around your wheel, the parking rack, and the frame of your bike. The chain can go around your rear wheel and the parking rack. The chain lock isn’t necessary since rear wheels are more custom than front wheels, but it’s nice to not worry about it ever being stolen. Don’t forget to take with you things that aren’t mounted on your bike (e.g. panniers, lights, helmet)!
+There are tons of bike racks around, on the street or in parking garages, so you should never have trouble finding one. If your wheels are quick-release, consider buying two locks: a hefty U-Lock and a thick chain lock. The U-Lock should go around your wheel, the parking rack, and the frame of your bike. The chain can go around your rear wheel and the parking rack. The chain lock isn’t necessary since rear wheels are more custom than front wheels, but it’s nice to not worry about it ever being stolen. Don’t forget to take with you things that aren’t mounted on your bike (e.g. panniers, lights, helmet)! Bikes do get stolen in Seattle but the police are pretty good about trying to get them back to people. Be sure to write down, or even better take a picture of your bike and the serial number. Have proof so you can reclaim your bike.
 
 
 How to Ride the Bus with a Bike

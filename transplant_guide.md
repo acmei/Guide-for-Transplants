@@ -97,13 +97,13 @@ Be wary that shipping lots of boxes will cost a lot. This is one of the greatest
 
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
 
-**Pioneer Square**
+**Pioneer Square**  
 Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
 
-**International District (ID) / Chinatown**
+**International District (ID) / Chinatown**  
 Info about ID
 
-**Capitol Hill**
+**Capitol Hill**  
 Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment.
 
   - *Tacos Chukis | 219 Broadway E (Upstairs)*  _once you're here_
@@ -113,52 +113,52 @@ Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
 
 
-**South Lake Union (SLU)**
+**South Lake Union (SLU)**  
 Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago.
 
-**Lower Queen Anne**
+**Lower Queen Anne**  
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
 
 **Belltown**  
 Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that it's sketchy.
 
-**Central District**
+**Central District**  
 Info about CD
 
-**First Hill**
+**First Hill**  
 Info about First Hill
 
-**Fremont**
+**Fremont**  
 Info about Fremont
 
-**Ballard**
+**Ballard**  
 Info about Ballard
 
-**University District (U-District)**
+**University District (U-District)**  
 Info about U-district
 
 
 ##Getting Around
 
-**Walking**
+**Walking**  
   Don't be afraid to walk for transportation, if you live close enough. It might be a good idea to avoid heels until you get used to the hills and your feet adjust, but lots of Adies walk to class. Google Maps gives good estimates of how long it should take you to walk -- but don't forget to reverse the directions (e.g. look at how long it takes to walk _to_ Ada, and then hit reverse to see how long it takes to walk home _from_ Ada). The hills make the different directions take different times, and Google Maps accounts for this.
 
-**[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**
+**[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**  
   So… you’re poor! Since it’s likely you’ll have zero income once attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus fare! To apply for a reduced fare bus pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices and provide proof of your eligibility and your identity.
   We’ll warn you now: there are tons of locations, with tons of different hours. There's [one near Ada](http://www.kingcounty.gov/healthservices/health/locations/downtown.aspx) that's open 8am - 5pm. If you have your paperwork ready and show up right when they open (so there's little chance of a line), you can easily be out in 10-15 minutes.
-  They make you prove your income, and they have [tons of different options](http://metro.kingcounty.gov/programs-projects/orca-lift/to-qualify.html) for how to do that. Read carefully, and show up prepared. If you get Apple Health before you get the ORCA LIFT pass, they'll have it on file and you won't need to prove your income again.
+  They make you prove your income, and they have [tons of different options](http://metro.kingcounty.gov/programs-projects/orca-lift/to-qualify.html) for how to do that. Read carefully, and show up prepared. If you get Apple Health before you get the ORCA LIFT pass, they'll have it on file and you won't need to prove your income again. You can sign up for both of these at the same time if you'd like.
   Note: If you don't have any qualifying documentation to show your income, you can submit a request for your employment history (which can be done at the enrollment office). Expect it to take about a week, but you can ask the enrollment office to mail your ORCA LIFT card to your home so you don’t have to find another time to visit during their limited hours.
   Note2: If you’re applying for the free Apple Care healthcare (which you can do at some of the ORCA LIFT enrollment offices), you’ll be able to skip this step since your lack of income will be verified then.
 
 **Bus Apps**
-  There are a lot of apps that can tell you which buses to take to get home. Options include:
-  - Google Maps
-  - SOMEONE ELSE NEEDS TO EXPAND THIS! I just use Google Maps :P
+  There are a couple of apps that can tell you which buses to take to get home.
+  - OneBusAway: locate your bus stop on the map and this app will tell you roughly when a bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make it's stop and how to get around.
+  - Google Maps: Just like you would use this for driving or walking around, Google Maps will tell you which routes to take to get to your destination. Use this in conjunction with OneBusAway for optimum bus trip planning.
+  - TripPlanner: This app exists and isn't so great. It's made by the county and should be more helpful. Stick with OneBusAway and Google Maps.
 
 **Biking**
   If you're new to Seattle, here's a warning: the hills are no joke. The thing about the hills is that there aren't a bunch of little hills.... it's that Seattle itself can seem like one GIANT hill. Depending on where you live, it can be a good 30 minute ride uphill the entire way. (It makes getting _to_ Ada easy, though!)
   That being said, it's not a huge deal as long as you don't have a fixed-gear bike, and as long as you shift down. Don't sprint up the hills -- take your time. And don't feel silly if you get off and walk for a particularly steep block or two -- lots of people do it.
-  See our car-to-bike guide for more information!
 
 **The Ferry**
   We _strongly_ recommend not living far enough away that you need to take the ferry, simply because commuting takes so much time. That being said, the ferry is a smooth ride, so if you're wondering if you can work while you're on the ferry, the answer is yes.
@@ -167,35 +167,27 @@ Info about U-district
   - SOMEONE ELSE?
 
 **Driving**
-  We recommend leaving your car at home and not needing to drive, but if you do.....
-  - KYNA, WANT TO HELP FILL THIS IN?
+  We recommend leaving your car at home and not needing to drive. Take a look at the driving section of [Getting to Seattle](#how-we-got-to-seattle) for more info.
 
-- SOMEONE ELSE FOR THESE?:
-- transit
-    - apps to help you get around
-  - bus
-  - train
 
 ##Buying a Laptop
-**Student discount**
-  - Note that if you're still in college, you have access to the student discounts. It's worth checking out how much the computers cost on campus, since they sometimes will sell the older versions and will cost a bit less. Additionally, on Apple's website, you can shop with the student discount. Be sure to compare the cost of these to the regularly-priced computers -- sometimes it'll save you money, and sometimes it won't.
 
-**Apple discount**
+**Student discount**  
+Note that if you're still in college, you have access to the student discounts. It's worth checking out how much the computers cost on campus, since they sometimes will sell the older versions and will cost a bit less. Additionally, on Apple's website, you can shop with the student discount. Be sure to compare the cost of these to the regularly-priced computers -- sometimes it'll save you money, and sometimes it won't.
+
+**Apple discount**  
 If you know someone who works at Apple, you might be able to ask them to buy the computer for you. Be careful to only ask someone if they're very close to you, and be understanding if they say no. You don't want to put anyone in an awkward situation -- some people are not comfortable with using their discounts for friends.
 
-**Macbook Pro vs Macbook Air**
-  - The Air is good enough for what you need in class, but if you plan to use the computer forever, it can be nice to get the Pro. These tend to have more RAM, and let you upgrade the RAM even further, so they won't seem as slow in a couple of years. That being said, it's highly recommended to upgrade the RAM if you can afford it (again, this won't matter as much in Ada but you'll appreciate it down the road). Do what makes the most sense for your budget.
+**Macbook Pro vs Macbook Air**  
+The Air is good enough for what you need in class, but if you plan to use the computer forever, it can be nice to get the Pro. These tend to have more RAM, and let you upgrade the RAM even further, so they won't seem as slow in a couple of years. That being said, it's highly recommended to upgrade the RAM if you can afford it (again, this won't matter as much in Ada but you'll appreciate it down the road). Do what makes the most sense for your budget.
 
-- ANYONE ELSE HAVE ANYTHING TO ADD ON THESE?
-  - Macbook Pro
-  - Macbook Air
-  - Macs in General
-  - 10% tax in WA
+**WA Sales Tax**  
+Seattle has a hefty sales tax, 9.6%, offset by the fact that it doesn't have income tax. If you live in an area with lower sales tax, consider buying your laptop BEFORE you arrive in Seattle to save a little bit of money.
 
-**Warranties**
-  - We always recommend getting some sort of warranty. These computers are pricey enough that you don't want to be out all that money if something goes wrong, and they're really expensive to fix. Check out the warranties you can buy through Apple, as well as other warranties such as [SquareTrade](http://www.squaretrade.com/). Note that some credit cards also have warranties if you buy the computer with the card -- you'll have to look into your card terms and/or call your credit card company. Be sure to ask about what is covered and what isn't.
+**Warranties**  
+These computers are pricey enough that you don't want to be out all that money if something goes wrong, and they're really expensive to fix. Check out the warranties you can buy through Apple, as well as other warranties such as [SquareTrade](http://www.squaretrade.com/). Note that some credit cards also have warranties if you buy the computer with the card -- you'll have to look into your card terms and/or call your credit card company. Be sure to ask about what is covered and what isn't.
 
-[Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
+If you decide to save a little money and not get a brand spanking new laptop, check out these refurbished machines from Apple. [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
 ##Health Care
@@ -206,7 +198,7 @@ If you're in need of healthcare coverage, once moved to Seattle you can sign up 
 - The Social Security numbers and dates of birth for each member of your household.
 - Your immigration information, if that applies to you.
 
-You can apply online or in person. Signing up for Apple Health can be done in conjunction with getting an OrcaLift card so that you don't have to make multiple trips. Additionally, qualifying for Apple Health will automatically qualify you for the OrcaLift card (See the 'Getting Around' section for more information on OrcaLift). The cost of Apple Health is FREE and as an unemployed student of Ada Developers Academy you should qualify. Apple Health coverage includes family doctor visits, preventative care, and prescription medication among other things. Coverage may vary depending on the plan you select when you sign up. You can read up on the individual plans and Apple Health at the links below.
+You can apply online OR in person. Signing up for Apple Health can be done in conjunction with getting an OrcaLift card so that you don't have to make multiple trips. Additionally, qualifying for Apple Health will automatically qualify you for the OrcaLift card (See the [Getting Around](#getting-around) section for more information on OrcaLift). The cost of Apple Health is FREE and as an unemployed student of Ada Developers Academy you should qualify. Apple Health coverage includes family doctor visits, preventative care, and prescription medication among other things. Coverage may vary depending on the plan you select when you sign up. You can read up on the individual plans and Apple Health at the links below.
 
 - Learn More: [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
 - Apply: [Washington Health Plan Finder](http://www.wahealthplanfinder.org) _Note: site is often down on the weekends for maintenance_
