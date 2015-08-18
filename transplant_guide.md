@@ -34,11 +34,10 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Though great brand name ones can be thrifted right here in Seattle.
 
 - **Comfortable Shoes**  
-  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again. If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
+  Get ready to climb those hills! If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.
-  [Read our in-depth biking guide here](/car_to_bike.md)
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. [Read our car to biking guide here](/car_to_bike.md)
 
 - **Your Passport**
   Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
