@@ -1,7 +1,7 @@
 Guide for Transplants
 =====================
 
-Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
+Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the guide. We're here to help!
 
 
 ##Table of Contents
@@ -10,11 +10,11 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Housing](#housing)
 - [Neighborhoods](#neighborhoods)
 - [Things You'll Need](#things-you-will-need)
-  - [Car to Bike](/car_to_bike.md)
 - [Getting to Seattle](#how-we-got-to-seattle)
 - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
 - [Bringing a Pet](#bringing-a-pet)
 - [Getting Around](#getting-around)
+  - [Car to Bike](/car_to_bike.md)
 - [Buying a Laptop](#buying-a-laptop)
 - [When You Get Here](#when-you-get-here)
 - [Health Care](#health-care)
@@ -22,8 +22,8 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 
 
 ##Misconceptions About Seattle
-- **The Rain** - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
-- **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)** - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be quite friendly.
+- **Rain** - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
+- **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)** - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be pretty friendly.
 - Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
 
@@ -37,7 +37,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Get ready to climb those hills! If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. [Read our car to biking guide](/car_to_bike.md).
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. [Read our car to biking tips](/car_to_bike.md).
 
 - **Your Passport**
   Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
@@ -45,13 +45,11 @@ Seattle’s weather and terrain may be different than your home’s so make sure
 
 ##Housing
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
-Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
+Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place! If you find yourself in such a situation, feel free to contact any of the names listed at the bottom of the guide and we'll try to find a place for you to crash.
 
 **Seattle's 20 Day Notification**
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
 
-**Garbage**  _Things to know once your here_
-Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
 
 - microhousing or apodments
 - realtors
@@ -240,38 +238,37 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 - [All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
 
 
-##Couch to Crash On
-- contact
-
-
 ##How We Got to Seattle
-- **Flying**
-  - So you plan on flying here.. see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
-- **Driving**
+- **Flying**  
+  - So you plan on flying here...see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
+- **Driving**  
   -  Two options to get your car here:
-    - Shipping: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
-    - Driving: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
-  - Parking: If you've never lived in a big city, you may not know.. having a car in Seattle is VERY EXPENSIVE (especially in downtown)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
+    - _Shipping_: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
+    - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
+  - **Parking**  
+    If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
 
 ##I’M IN SEATTLE!...Now What?
-Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-damn-totally-necessary things:
+Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-totally-necessary things:
 
-  - **Change your mailing address!**
-    USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also notify those sending you mail that your address has changed to the new address. (Also don’t forget to update your bank/investment info, Netflix account and social media profiles.)
+  - **Change your mailing address!**  
+    USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also notify those sending you mail that your address has changed to the new address. (Also don’t forget to update your bank/investment info, Netflix account, social media profiles, etc.)
 
-  - **Register to vote!**
+  - **Register to vote!**  
     Since you changed your permanent address, you’ll have to register to vote. Don’t forget to do this! Your vote is important!!
 
-  - **Get Internet! Cable! Utilities!**
-    If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location.
-    - _Comcast? CenturyLink? Wave? Condo Internet?_
+  - **Get Internet! Cable! Utilities!**  
+    If your building doesn’t handle all your utilities, make sure to set them up ASAP. You don’t want to be left without WiFi for weeks! Your building manager should have a list of companies who provide for your location. The options available in Seattle are Comcast, CenturyLink, Wave, and Condo Internet.
 
-  - **Get a library card!**
+  - **Get a library card**  
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
 
-  - **Change your driver's license**
+  - **Change your driver's license**  
     By law, you have 30 days to change your driver's license and register your car with WA. But let's be honest, you're going to have a lot on your plate. So unless you happen to have a really nosy neighbor, I wouldn't stress it too much. Just make sure you get it done.
 
-  - **Car registration**
+  - **Car registration**  
     Just do it. When you change your driver's license.
+
+  - **Garbage**  
+    Just an FYI -- Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
