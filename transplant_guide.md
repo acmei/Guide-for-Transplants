@@ -103,78 +103,44 @@ Be wary that shipping lots of boxes will cost a lot. This is one of the greatest
 
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
 
-<<<<<<< HEAD
-**Pioneer Square**
-The oldest neighborhood in Seattle! There are sometimes cheap studios and one bedrooms here, but more are getting renovated into expensive loft-like spaces.
-This is close to the football and baseball stadiums, so sometimes traffic can be bad, and if you have a car and no dedicated parking that can be a big problem. Several of the homeless shelters/missions are in this area, so there are quite a lot of homeless people in the area, which could be nerve-wracking walking home alone at night if you are not moving to Seattle from a city. It is just south of downtown, so walking to class is definitely doable.
-If seeing drug use on the streets near where you live feels scary, this may not be the best neighborhood to look in for you. No real grocery store in this area.
-
-**International District (ID) / Chinatown**
-The ID used to be called Chinatown, so this is its new politically correct name. It is right next to Pioneer Square, and there is not a super clear line of deliniation between the two neighborhoods, so a lot of the commentary about Pioneer Square applies here.
-As the name implies, it is an eclectic neighborhood, and there is a lot of really delicious, fairly affordable places to eat, including a lot of chinese, vietnamese and korean restaurants. The further west (away from downtown) you go in the ID the more residential it becomes. Main grocery stores are asian markets (like Uwajimaya).
-=======
 **Pioneer Square**  
-Very eclectic neighborhood. Lots of homeless. The oldest neighborhood in Seattle!
+The oldest neighborhood in Seattle! There are sometimes cheap studios and one bedrooms here, but more are getting renovated into expensive loft-like spaces. This is close to the football and baseball stadiums, so sometimes traffic can be bad, and if you have a car and no dedicated parking that can be a big problem. Several of the homeless shelters/missions are in this area, so there are quite a lot of homeless people around. It is just south of downtown, so walking to class is definitely doable. Also, there's no real grocery store in the neighborhood.
 
 **International District (ID) / Chinatown**  
-Info about ID
->>>>>>> master
+It is right next to Pioneer Square, and there is not a super clear line of deliniation between the two neighborhoods, so a lot of the commentary about Pioneer Square applies here. As the name implies, it is an eclectic neighborhood, and there is a lot of really delicious, fairly affordable places to eat, including a lot of chinese, vietnamese and korean restaurants. The further west (away from downtown) you go in the ID the more residential it becomes. Main grocery stores are asian markets (like Uwajimaya).
 
-**Capitol Hill**  
-Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment. Hard to find parking and if your building has a parking lot or garage, expect to pay more for it. A good neighborhood for someone who likes to be right in the middle of it all.
-
-  - *Tacos Chukis | 219 Broadway E (Upstairs)*  _once you're here_
-    Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
-
-  - *Julia’s on Broadway | 300 Broadway E*  _once you're here_
-    Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
-
+**Capitol Hill**   
+Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment. Hard to find parking and if your building has a parking lot or garage, expect to pay more for it. A good neighborhood for someone who likes to be right in the middle of it all. The Brooklyn of Seattle.
 
 **South Lake Union (SLU)**  
-<<<<<<< HEAD
-Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets(it is sandwiched between I-5 and Highway 99).
-A lot of the buildings do have roof decks, which can be awesome for fourth of July fireworks displays on Lake Union and New Year's fireworks from the Space Needle. Make friends with people who live here so you can hang out on their roofs and boats ;-)
-=======
-Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago.
->>>>>>> master
+Home of Amazon. Bro-town. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets (it is sandwiched between I-5 and Highway 99) and consistent construction. A lot of the buildings do have roof decks, which can be awesome for fourth of July fireworks displays on Lake Union and New Year's fireworks from the Space Needle. Make friends with people who live here so you can hang out on their roofs and boats ;-)
 
 **Lower Queen Anne**  
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle). Parking/traffic can be rough in this area because of all the events at the Seattle center, but it is a nice central place to live and sometimes you can find studios or one bedrooms in this area in slightly older buildings which can make it more affordable.
 
 **Belltown**  
-<<<<<<< HEAD
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. It can get a bit rowdy, especially on weekend nights, and some complain that's it's sketchy. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
 
-**Beacon Hill**
+**Beacon Hill**  
 Some places in this neighborhood will be close to the light rail station, which makes it an easy commute into downtown (and also to the airport). It is further south than most of the neighborhoods listed here, but especially if you are close to the light rail, a house here can be cheaper and a good find. There are a couple little retail areas around the light rail with a grocery store, coffee shops, a library and a few bars and restaurants.
-=======
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that it's sketchy.
->>>>>>> master
 
 **Central District**  
-This neighborhood is further east than capitol hill/first hill/the ID, but there is more residential and sometimes cheaper housing available. It is bikeable to downtown (hills not withstanding), and is generally quieter evenings/weekends than neighborhoods with more of a night life. There are a few cute neighborhood bars and good coffee shops though, like Chucks Hop Shop CD, Neighbor Lady, Twilight Exit, Cortona Cafe etc.  
+This neighborhood is further east than Capitol Hill/First Hill/the ID, but there is more residential and sometimes cheaper housing available. It is bikeable to downtown (hills not withstanding), and is generally quieter evenings/weekends than neighborhoods with more of a night life. There are a few cute neighborhood bars and good coffee shops though, like Chucks Hop Shop CD, Neighbor Lady, Twilight Exit, Cortona Cafe etc.  
 
-**First Hill**  
+**First Hill**   
 Used to also be referred to as pill hill, because there are a lot of hospitals in the area. If you are easily awoken by ambulance sirens, it may not be the best place to live. The location is very convenient as it is close to downtown and to Capitol Hill, but there is not often a ton of open housing in the area. There are a few new complexes under construction in the area but will likely be pretty pricey when they open, and there is at least one microhousing building in the neighborhood.
 
 **Fremont**  
-Fremont is the self-coined Center of the Universe, and can be a fun place to live if you can find housing-- it often is sparse and expensive. It is the location of the solstice parade (which includes a naked bike ride) and is home to many bars, restaurants, breweries and tap rooms. It is north of queen anne from downtown, or west of Wallingford on the north side of lake union. From downtown, there is a bridge that is low enough it has to open for boat traffic, so that can cause some traffic problems from time to time. It is on the Burke Gilman trail (fun bike ride) and it not too terrible of a bike commute to downtown(but again, hills, because Seattle).
+Fremont is the self-coined Center of the Universe, and can be a fun place to live if you can find housing-- it often is sparse and expensive. It is the location of the solstice parade (which includes a naked bike ride) and is home to many bars, restaurants, breweries and tap rooms. It is north of Queen Anne from downtown, or west of Wallingford on the north side of Lake Union. From downtown, there is a bridge that is low enough it has to open for boat traffic, so that can cause some traffic problems from time to time. It is on the Burke Gilman trail (fun bike ride) and it not too terrible of a bike commute to downtown (but again, hills, because Seattle).
 
 **Ballard**  
-Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricy given it is brand new.
+Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricey given it is brand new.
 Getting downtown via transit isn't impossible, but because it is further west, it can make getting to sort of inconvenient at times.  It would not be convenient to commute to an east side (aka Bellevue (Expedia/Concur) or Redmond (Microsoft)) internship or job, but if you are coming from a place where you have an hour+ commute, maybe it wouldn't be that noticeable to you.  
 
-<<<<<<< HEAD
 **University District (U-District)**
-This is where the University of Washington is located, so there are a lot of rental properties in this area. There are a lot of students in this neighborhood which can be both good and bad- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late.
-It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada.
-It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. Eventually it will be connected to downtown via light rail, but that won't happen until 2021, so probably not a strong consideration at this point.
-=======
-**University District (U-District)**  
-Info about U-district
->>>>>>> master
+This is where the University of Washington is located, so there are a lot of rental properties in this area. There are a lot of students in this neighborhood which can be both good and bad- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late. It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada. It has fairly accessible transit to downtown, but it is a bit further away than other neighborhoods and is a somewhat hilly bike commute. In 2016, the light rail will connect through Capitol Hill (Broadway & John) to the Montlake side of the U District. 
 
-**West Seattle**
+**West Seattle**  
 People often think of West Seattle as being really far away because you have to cross a bridge to get there, but it isn't actually that far away, especially from downtown, buses run fairly frequently and late. That being said, make sure you are close to a downtown bus route on the West Seattle side. It has a great retail area, Alki beach (which is the peninsula that looks back toward downtown), great parks, a nice farmer's market, good grocery options, and more housing than cap/first hill. Some people say that people who live in West Seattle don't leave unless they have to-- it is definitely a distinctive community. There is also a water taxi to downtown from the east side of Alki, but it doesn't run that frequently or year round, so it is more of a fun adventure than a regular commuting option.
 
 ##Getting Around
@@ -211,21 +177,8 @@ People often think of West Seattle as being really far away because you have to 
 
 ##Buying a Laptop
 
-<<<<<<< HEAD
-Buying a Laptop _Ashley_
----------------
-- Student discount
-- Apple discount
-- Macbook Pro
-- Macbook Air
-- Macs in General  
-- 10% tax in WA
-- warranties
-  - some credit cards have warranties
-=======
 **Student discount**  
 Note that if you're still in college, you have access to the student discounts. It's worth checking out how much the computers cost on campus, since they sometimes will sell the older versions and will cost a bit less. Additionally, on Apple's website, you can shop with the student discount. Be sure to compare the cost of these to the regularly-priced computers -- sometimes it'll save you money, and sometimes it won't.
->>>>>>> master
 
 **Apple discount**  
 If you know someone who works at Apple, you might be able to ask them to buy the computer for you. Be careful to only ask someone if they're very close to you, and be understanding if they say no. You don't want to put anyone in an awkward situation -- some people are not comfortable with using their discounts for friends.
@@ -233,10 +186,6 @@ If you know someone who works at Apple, you might be able to ask them to buy the
 **Macbook Pro vs Macbook Air**  
 The Air is good enough for what you need in class, but if you plan to use the computer forever, it can be nice to get the Pro. These tend to have more RAM, and let you upgrade the RAM even further, so they won't seem as slow in a couple of years. That being said, it's highly recommended to upgrade the RAM if you can afford it (again, this won't matter as much in Ada but you'll appreciate it down the road). Do what makes the most sense for your budget.
 
-<<<<<<< HEAD
-Health Care _Anita_
------------
-=======
 **WA Sales Tax**  
 Seattle has a hefty sales tax, 9.6%, offset by the fact that it doesn't have income tax. If you live in an area with lower sales tax, consider buying your laptop BEFORE you arrive in Seattle to save a little bit of money.
 
@@ -247,7 +196,6 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
 
 
 ##Health Care
->>>>>>> master
 
 If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health -- Medicaid. You'll need the following information to apply:
 
@@ -297,13 +245,6 @@ If you have any addtiional questions, feel free to reach out to us via email or 
   - **Parking**  
     If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
-<<<<<<< HEAD
-How We Got to Seattle _Kyna_
----------------------
-- Flying or driving?
-- parking
-=======
->>>>>>> master
 
 ##I’M IN SEATTLE!...Now What?
 Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-totally-necessary things:
