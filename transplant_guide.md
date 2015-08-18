@@ -37,7 +37,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Get ready to climb those hills! If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. [Read our car to biking guide here](/car_to_bike.md)
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. [Read our car to biking guide](/car_to_bike.md).
 
 - **Your Passport**
   Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
@@ -75,18 +75,18 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - shopping for furniture _once you're here_
 - Ask landlords for videos of apartments, skype, facetime, google hangout _apt hunting tips_
 
-[Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)
-[Craigslist - Seattle](http://seattle.craigslist.org/)
-[Lee & Associates](http://www.leeandassociatespm.com/)
-[Windermere Property Management](http://www.wpmnorthwest.com/rentals)
-[Hamilton Urban Partners](https://www.hamiltonurban.com/residents/listings/seattle/)
-[Roomster](link?) _charge for membership, houseshare_
+[Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
+[Craigslist - Seattle](http://seattle.craigslist.org/)  
+[Lee & Associates](http://www.leeandassociatespm.com/)  
+[Windermere Property Management](http://www.wpmnorthwest.com/rentals)  
+[Hamilton Urban Partners](https://www.hamiltonurban.com/residents/listings/seattle/)  
+[Roomster](link?) _charge for membership, houseshare_  
 
 
 ##Getting Your Things to Seattle
 There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
 
-- Ship boxes to yourself via: USPS, UPS, FedEx, Amtrak
+- Ship boxes to yourself via: USPS, UPS, FedEx, [Amtrak](http://www.amtrak.com/express-shipping)
 - Shipping a bike: [shipBikes.com](http://www.shipbikes.com)
 - Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
 - Moving companies
