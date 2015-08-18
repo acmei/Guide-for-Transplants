@@ -297,7 +297,7 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 **Students**  
 Anita (moved from Ohio):  
 Elia (moved from Montana):  
-Amira (moved from LA):  
+Amira (moved from California):  
 
 - [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
 - [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
