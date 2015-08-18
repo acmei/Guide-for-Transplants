@@ -26,7 +26,8 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 There are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice. [You can read more about our weather in this local TV station's great Seattle weather FAQ](http://www.komonews.com/weather/faq/).
 - **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)**  
 You're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be pretty friendly.
-- Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!). If you hate the crowds or don't mind a little rain, you can do all these things year round.
+- **Seattle loves adventure**  
+Not necessarily a misconception, but something you might not expect from a tech town. Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!). If you hate the crowds or don't mind a little rain, you can do all these things year round.
 
 
 
@@ -54,7 +55,6 @@ There are two companies that provide micro-housing: [Footprint](http://liveatfoo
   For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.
   $1368.40 = Base Price of U-District (591) + (5 * 69.68) + (1 * 322) + (1 * 107)
 
-### Comment not content: Where is this list from? Fremont and First Hill can be hella expensive. Ballard is less expensive than Fremont. Also, Shoreline is not in Seattle. It is a separate city. If we're going to mention those, we should mention Burien and Renton, too. U District is also hella expensive in the late summer and fall because it's full of new students. --Jeri
 _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Downtown
 - Belltown
@@ -64,7 +64,7 @@ _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Pioneer Square/ID
 - Queen Anne
 - Madison Park/Montlake
-- University District
+- University District - most expensive in late summer and fall
 - Greenlake / Ravenna / Wedgewood / Bryant / View Ridge
 - Central District
 - Magnolia
@@ -95,9 +95,9 @@ Roommates are usually a lot cheaper than solo living on a monetary scale, but on
 
 ## Neighborhoods
 
-![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
-
 [For more detail, check out the neighborhood guide.](#)
+
+![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
 
 
 ## Getting to Seattle
@@ -111,7 +111,7 @@ Two options to get your car here:
   - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
 
 **Parking**  
-  If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
+If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
 
 
@@ -172,23 +172,18 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
   Don't be afraid to walk for transportation, if you live close enough. It might be a good idea to avoid heels until you get used to the hills and your feet adjust, but lots of Adies walk to class. Google Maps gives good estimates of how long it should take you to walk -- but don't forget to reverse the directions (e.g. look at how long it takes to walk _to_ Ada, and then hit reverse to see how long it takes to walk home _from_ Ada). The hills make the different directions take different times, and Google Maps accounts for this.
 
 **Public Transit**  
-  Rapidrides and Link Light Rail are _strongly recommended_ over neighborhood buses due to frequency, hours, and unlikelyhood of being affected by the [Great Restructuring of 2016][restructure]. (If you're considering a long commute, rest assured that routes between cities are unlikely to be affected by the restructure.)
+  Rapidrides and Link Light Rail are _strongly recommended_ over neighborhood buses due to frequency, hours, and unlikelihood of being affected by the [Great Restructuring of 2016][restructure]. (If you're considering a long commute, rest assured that routes between cities are unlikely to be affected by the restructure.)
 
 [restructure]: http://metro.kingcounty.gov/programs-projects/link-connections/
 
 
-[rights]: https://wwrhah.wordpress.com/2013/08/08/questions-and-answers-about-king-county-metro-fare-enforcement/
 
 **[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**  
   So... you’re poor! Since it’s likely you’ll have zero income while attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus & light rail fare! To apply for a reduced fare pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices and provide proof of your eligibility and your identity.
 
-  We’ll warn you now: there are tons of locations, all with different hours. There's [one near Ada](http://www.kingcounty.gov/healthservices/health/locations/downtown.aspx) that's open 8am - 5pm. If you have your paperwork ready and show up right when they open (so there's little chance of a line), you can easily be out in 10-15 minutes.
+  [You can read more about signing up for ORCA LIFT in the transit guide.][orcalift]
 
-  They make you prove your income, and they have [tons of different options](http://metro.kingcounty.gov/programs-projects/orca-lift/to-qualify.html) for how to do that. Read carefully and show up prepared. __If you get Apple Health before you get the ORCA LIFT pass, you won't need to prove your income again.__ You can also sign up for both of these at the same time if you'd like.
-
-  Note: If you don't have any qualifying documentation to show your income, you can submit a request for your employment history (which can be done at the enrollment office). Expect it to take about a week. You can ask the enrollment office to mail your ORCA LIFT card to your home, so you don’t have to find another time to visit during their limited hours.
-
-  Note2: If you’re applying for the free Apple Care healthcare (which you can do at some of the ORCA LIFT enrollment offices), you’ll be able to skip this step since your lack of income will be verified then.
+  [orcalift]
 
 **Bus Apps**  
   There are a couple of apps that can tell you which buses to take to get home.
@@ -235,7 +230,7 @@ If you don't think your pet will be happy living with you while you're in Ada bu
 
 If you do decide to bring your pet, [we have some information about bringing your pet here][pet].
 
-[pet]: Adfasdfs
+[pet]: bringing_a_pet.md
 
 ## When You Get Here
 I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar. Walking around is the best way. And don’t forget to do these easy-to-forget-but-totally-necessary things:

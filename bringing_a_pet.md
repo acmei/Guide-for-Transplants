@@ -1,3 +1,5 @@
+## Bringing a Pet
+
 Think twice. Ada is a full-time commitment and you’ll likely stay after class to finish writing a program or will want to hang out for happy hour or to attend a meet-up. Expect to be home just enough to eat and sleep (you’ll have more time than that, but it’s smart not to count on it). Dogs will need more attention than you might have, so consider the well-being of your pet. Cats, birds, fish, etc. will be more forgiving that you’re not home at least eight hours a day.
 
 If you don't think your pet will be happy living with you while you're in Ada but you don't want to part with him/her, consider asking a friend or family member to take care of your pet until you're in a better position to give them the love that they deserve. Be sure to discuss expenses, though -- who will pay for the pet's food, vet bills, etc.
