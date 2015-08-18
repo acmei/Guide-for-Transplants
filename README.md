@@ -111,31 +111,31 @@ It is right next to Pioneer Square, and there is not a super clear line of delin
 
 ### South Lake Union (SLU)
 
-_Street addresses: Sometimes no directional & sometimes ???._
+_Street addresses: no directional (below Denny) & N (past Denny)._
 
 Home of Amazon. Bro-town. Not a super pedestrian friendly area, and though more retail and restaurants are popping up, it doesn't feel like much of a neighborhood. A lot of the housing in this area is both really nice and really expensive, as Amazonians who want to live close to work have the salaries to afford some really nice places, and it is very central and close to downtown. Traffic can sometimes be a nightmare here because there are only a few arterial streets (it is sandwiched between I-5 and Highway 99) and consistent construction. A lot of the buildings do have roof decks, which can be awesome for fourth of July fireworks displays on Lake Union and New Year's fireworks from the Space Needle. Make friends with people who live here so you can hang out on their roofs and boats ;-)
 
 ### Belltown
 
-_Street addresses: sometimes no directional & sometimes W._
+_Street addresses: no directional._
 
 Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. It can get a bit rowdy, especially on weekend nights. Most of the housing in this area is in tall apartment buildings, and it is going to be one of the more expensive areas to live, though every once and a while something reasonable will come up.
 
 ### Lower Queen Anne
 
-_Street addresses: W._
+_Street addresses: W & N._
 
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle). Parking/traffic can be rough in this area because of all the events at the Seattle center, but it is a nice central place to live and sometimes you can find studios or one bedrooms in this area in slightly older buildings which can make it more affordable.
 
 ### First Hill
 
-_Street addresses: sometimes no directional, sometimes E._
+_Street addresses: no directional & E._
 
 Used to also be referred to as pill hill, because there are a lot of hospitals in the area. If you are easily awoken by ambulance sirens, it may not be the best place to live. The location is very convenient as it is close to downtown and to Capitol Hill, but there is not often a ton of open housing in the area. There are a few new complexes under construction in the area but will likely be pretty pricey when they open, and there is at least one microhousing building in the neighborhood.
 
 ### Capitol Hill
 
-_Street addresses: mostly E and sometimes no directional (past Broadway)._
+_Street addresses: E, the occasional no directional below Broadway._
 
 Known as the most LGBT-friendly neighborhood. Tons of cool shops and restaurants. Likely to be a bit obnoxious on weekend nights. Very expensive in terms of housing. Expect to pay about $2000/month for a one bedroom apartment. Hard to find parking and if your building has a parking lot or garage, expect to pay more for it. A good neighborhood for someone who likes to be right in the middle of it all.
 
@@ -162,7 +162,8 @@ Fremont is the self-coined Center of the Universe, and can be a fun place to liv
 _Street addresses: NW._
 
 Ballard is kind of new hipster central in Seattle, with new craft cocktail gastropubs and microbreweries seemingly popping up weekly. It is a pretty fun place to go out on the weekends and they have an awesome Sunday farmer's market. There is quite a bit of new construction, but it is pretty pricey given it is brand new.
-Getting downtown via transit isn't impossible, but because it is further west, it can make getting to sort of inconvenient at times.  It would not be convenient to commute to an east side (aka Bellevue (Expedia/Concur) or Redmond (Microsoft)) internship or job, but if you are coming from a place where you have an hour+ commute, maybe it wouldn't be that noticeable to you.
+
+Getting downtown via transit isn't impossible, but because it is further west, it can make getting to some internships inconvenient at times. It would not be very convenient to commute to an Eastside (Bellevue, Kirkland, Redmond) internship or job. If you are already coming from an hour plus commute, this might not be an issue for you.
 
 ### South Seattle, AKA-- West Seattle, White Center, Beacon Hill, Mount Baker, Columbia City
 
@@ -260,6 +261,18 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
 
 **Walking**  
   Don't be afraid to walk for transportation, if you live close enough. It might be a good idea to avoid heels until you get used to the hills and your feet adjust, but lots of Adies walk to class. Google Maps gives good estimates of how long it should take you to walk -- but don't forget to reverse the directions (e.g. look at how long it takes to walk _to_ Ada, and then hit reverse to see how long it takes to walk home _from_ Ada). The hills make the different directions take different times, and Google Maps accounts for this.
+
+**Public Transit**  
+  Rapidrides and Link Light Rail are _strongly recommended_ over neighborhood buses due to frequency, hours, and unlikelyhood of being affected by the [Great Restructuring of 2016][restructure]. (If you're considering a long commute, rest assured that regional Sound Transit routes are also unlikely to be affected.)
+
+  All the different transit names:
+  * __Sound Transit__ is the regional transit authority, which has jurisdiction over several counties. ST buses and trains are white on top with some blue on the bottom and a little green between the two. They can be distinguished from other similarly colored buses by a wave-like pattern in the middle, where all the colors meet and make magic. Or waves. ST's slogan: Ride the Wave.
+  * __Metro Transit__ has jurisdiction of King County, which includes Seattle, Shoreline, Burien, Kent, Bellevue, Kirkland, and Redmond. All Metro buses are yellow on the bottom. Metro neighborhood buses are dark green/blue/purple on top, depending on the model of the bus. Rapidrides are red on top. Rapidride bonus: you can pay at the bus stop & board from any door. This makes boarding & deboarding much faster & thus improves ride times. Rapidride bonus 2.0: another chance to catch magic in action-- [they are all Gryffindor themed](https://www.google.com/images?q=metro+rapidride).
+  * __Community Transit__ has jurisdiction over Snohomish County, which includes Lynnwood, Edmonds, Mountlake Terrace, Bothell, Marysville, and... Snohomish. CT buses are also mostly white with some blue, and CT buses can often but not always be distinguished by their double-decker ostentaisousness. If you want a view during your long commute, consider moving into CT's jurisdiction! ;)
+  * __Intercity Transit__ has jurisdiction over Thurston County, which is a distant land from Seattle. IT buses are mostly blue with some white and dark green. They can be distinguished from similarly colored buses by patch of dark green at the rear end of the bus and the little swoop of gray or white at the top.
+  * Pierce Transit also exists but currently has no routes into Seattle. PT operates in Pierce County, which lives between King and Thurston counties. Enjoy the irony of it having no routes into the city when IT does.
+
+[restructure]: http://metro.kingcounty.gov/programs-projects/link-connections/
 
 **[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**  
   So... you’re poor! Since it’s likely you’ll have zero income while attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus & light rail fare! To apply for a reduced fare pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices and provide proof of your eligibility and your identity.
