@@ -141,11 +141,12 @@ People often think of West Seattle as being really far away because you have to 
 So you plan on flying here...see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
 
 **Driving**  
-  -  Two options to get your car here:
-    - _Shipping_: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
-    - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
-  - **Parking**  
-    If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
+Two options to get your car here:
+  - _Shipping_: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
+  - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
+  
+**Parking**  
+  If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
 
 
