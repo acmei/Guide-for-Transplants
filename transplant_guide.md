@@ -22,8 +22,8 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 
 
 ##Misconceptions About Seattle
-- The Rain - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time.
-- Seattle Freeze - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people).
+- The Rain - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
+- Seattle Freeze - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be quite friendly.
 - Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
 
@@ -123,7 +123,7 @@ Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels lik
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
 
 **Belltown**  
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that it's sketchy.
 
 **Central District**  
 Info about CD
@@ -213,6 +213,13 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 - contact
 
 
+<<<<<<< HEAD
+How We Got to Seattle _Kyna_
+--------------------- 
+- Flying or driving?
+  - If flying, be sure to take cold prevention precautions! It's not nice arriving only to come down with a cold a few days later!
+- parking
+=======
 ##How We Got to Seattle
 - **Flying**
   - So you plan on flying here.. see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
@@ -221,6 +228,7 @@ If you have any addtiional questions, feel free to reach out to us via email or 
     - Shipping: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
     - Driving: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
   - Parking: If you've never lived in a big city, you may not know.. having a car in Seattle is VERY EXPENSIVE (especially in downtown)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
+>>>>>>> master
 
 
 ##I’M IN SEATTLE!...Now What?
