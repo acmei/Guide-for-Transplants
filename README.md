@@ -43,9 +43,9 @@ _Maybe Marleigh could add to this? A warning about thin walls?_
 There are two companies that provide micro-housing: [Footprint](http://liveatfootprint.com/) (who allow pets) and [Apodments](http://apodment.com/) (who don't). That's really their biggest difference. The studio apartments typically come furnished with a twin bed, a mini fridge, a microwave and maybe a few pieces of furniture. Both companies offer a commons lounge with a full range stove and often times a laundry room inside the building. They're great if you're particular about where you want to live in Seattle but don't have the moolah for a studio/1 bedroom. Also, they're relatively the same and brand spanking new so there's (usually) no worries about signing a lease without seeing the place. Crockpots and stovetop burners are _highly_ recommended if you're the cooking type.
 
 **Rent Pricing**  
-This article creates an equation of how much one can expect to pay in each Seattle neighborhood based on Craigslist data, [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/). Using this equation, you can calculate the expected rental price in each neighborhood based on the number of rooms and square footage of the apartment. See below for an example calculation based on the article.
+[A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/) This article provides an equation to calculate how much one can expect to pay each month. Using this, you can determine the expected rental price in each neighborhood based on the number of rooms and square footage of the apartment. See below for an example calculation based on the article.
 
-_Neighborhoods in Order from Most Expensive to Least Expensive_:  
+_Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Downtown
 - Belltown
 - Capitol Hill
@@ -64,6 +64,8 @@ _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Greenwood/Crown Hill
 - Shoreline
 - Lake City
+
+- First Hill, Fremont, Beacon Hill
 
 **Expected Rental Price Equation**  
   SQFT = square footage in hundreds  
@@ -212,9 +214,9 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
 
 **Bus Apps**  
   There are a couple of apps that can tell you which buses to take to get home.
-  - OneBusAway: locate your bus stop on the map and this app will tell you roughly when a bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make it's stop and how to get around.
-  - Google Maps: Just like you would use this for driving or walking around, Google Maps will tell you which routes to take to get to your destination. Use this in conjunction with OneBusAway for optimum bus trip planning.
-  - TripPlanner: This app exists and isn't so great. It's made by the county and should be more helpful. Stick with OneBusAway and Google Maps.
+  - _OneBusAway_: Arguably the best bus app available in Seattle. Locate your bus stop on the map and this app will tell you roughly when the bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make it's stop and how to get around.
+  - _Google Maps_: Just like you would use this for driving or walking around, Google Maps will tell you which routes to take to get to your destination. Use this in conjunction with OneBusAway for optimum bus trip planning.
+  - _TripPlanner_: This app exists and isn't so great. It's made by the county and should be more helpful. Stick with OneBusAway and Google Maps.
 
 **Biking**  
   If you're new to Seattle, here's a warning: the hills are no joke. The thing about the hills is that there aren't a bunch of little hills.... it's that Seattle itself can seem like one GIANT hill. Depending on where you live, it can be a good 30 minute ride uphill the entire way. (It makes getting _to_ Ada easy, though!)
@@ -292,11 +294,10 @@ I'm in Seattle, NOW WHAT? Get settled, girl! Consider planning an IKEA trip with
 ##Asking Questions  
 If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find us on twitter using the lists started by students or contact the students who have volunteered to help answer questions.
 
-**Students**
-Anita (moved from Ohio): 
-Elia (moved from Montana):
-Amira (moved from LA):
-
+**Students**  
+Anita (moved from Ohio):  
+Elia (moved from Montana):  
+Amira (moved from LA):  
 
 - [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
 - [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
