@@ -9,94 +9,84 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Misconceptions About Seattle](#misconceptions-about-seattle)
 - [Housing](#housing)
 - [Neighborhoods](#neighborhoods)
-- [Things You'll Need](#things-you-will-need)
 - [Getting to Seattle](#how-we-got-to-seattle)
 - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
+- [Things You May Need](#things-you-may-need)
+- [Buying a Laptop](#buying-a-laptop)
+- [Health Care](#health-care)
 - [Bringing a Pet](#bringing-a-pet)
 - [Getting Around](#getting-around)
   - [Biking in Seattle](/car_to_bike.md)
-- [Buying a Laptop](#buying-a-laptop)
 - [When You Get Here](#when-you-get-here)
-- [Health Care](#health-care)
 - [Additional Questions?](#asking-questions)
 
 
+
 ##Misconceptions About Seattle
-- **Rain** - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
-- **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)** - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be pretty friendly.
+- **Rain**  
+There are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
+- **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)**  
+You're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be pretty friendly.
 - Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
-
-##Things You May Need
-Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
-
-- **Rain Jacket(s)**
-  Though great brand name ones can be thrifted right here in Seattle.
-
-- **Comfortable Shoes**  
-  Get ready to climb those hills! If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
-
-- **A Bike?**
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. Read our [getting around](#getting-around) and [biking in Seattle](/car_to_bike.md) advice.
-
-- **Your Passport**
-  Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
 
 
 ##Housing
 **My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place! If you find yourself in such a situation, feel free to contact any of the names listed at the bottom of the guide and we'll try to find a place for you to crash.
 
-**Seattle's 20 Day Notification**
+**Seattle's 20 Day Notification**  
 Apartment renters are required to notify their landlords of their departure from the apartment 20 days prior to actually vacating. This means that the apartments that show up for rent (especially the good ones) are not on the market for very long. Many times, landlords will have open houses for the vacant apartment.
 
+**Micro-Housing**  
+_Maybe Marleigh could add to this? A warning about thin walls?_
+There are two companies that provide micro-housing: [Footprint](http://liveatfootprint.com/) (who allow pets) and [Apodments](http://apodment.com/) (who don't). That's really their biggest difference. The studio apartments typically come furnished with a twin bed, a mini fridge, a microwave and maybe a few pieces of furniture. Both companies offer a commons lounge with a full range stove and often times a laundry room inside the building. They're great if you're particular about where you want to live in Seattle but don't have the moolah for a studio/1 bedroom. Also, they're relatively the same and brand spanking new so there's (usually) no worries about signing a lease without seeing the place. Crockpots and stovetop burners are _highly_ recommended if you're the cooking type.
 
-**Micro-Housing** _Maybe Marleigh could add to this? A warning about thin walls?_
-There are two companies that provide micro-housing: [Footprint](http://liveatfootprint.com/) (who allow pets) and [Apodments](http://apodment.com/) (who don't). That's really their biggest difference. The studio apartments typically come with a twin bed, a mini fridge, a microwave and maybe a few pieces of furniture. Both companies offer a commons lounge with a full range stove and often times a laundry room inside the building. They're great if you're particular about where you want to live in Seattle but don't have the moolah for a studio/1 bedroom. Also, they're relatively the same and brand spanking new so there's (usually) no worries about signing a lease without seeing the place. Crockpots and stovetop burners are _highly_ recommended if you're the cooking type.
+**Rent Pricing**  
+This article creates an equation of how much one can expect to pay in each Seattle neighborhood based on Craigslist data, [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/). Using this equation, you can calculate the expected rental price in each neighborhood based on the number of rooms and square footage of the apartment. See below for an example calculation based on the article.
 
+**Seattle Neighborhoods in Order from Most Expensive to Least Expensive**:  
+- Downtown
+- Belltown
+- Capitol Hill
+- South Lake Union
+- Ballard 
+- Pioneer Square/ID
+- Queen Anne 
+- Madison Park/Montlake 
+- University District 
+- Greenlake 
+- Wedgewood
+- Central District
+- Magnolia
+- West Seattle
+- Columbia City
+- Greenwood/Crown Hill
+- Shoreline
+- Lake City
 
-- realtors
-- avg pricing of apartments by neighborhood
-  - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
-    - Expected Rental Price equation from the article
-      SQFT = square footage in hundreds  
-      BATH = # of bathrooms  
-      BED = # of bedrooms
+**Expected Rental Price Equation**  
+  SQFT = square footage in hundreds  
+  BATH = # of bathrooms  
+  BED = # of bedrooms
 
-      RENT = Base Price of neighborhood ($X) + (SQFT * 69.68) + (BATH * 322) + (BED * 107)
+  RENT = Base Price of neighborhood ($X) + (SQFT * 69.68) + (BATH * 322) + (BED * 107)
 
-      For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.
-      $1368.40 = Base Price of U-District (591) + (5 * 69.68) + (1 * 322) + (1 * 107)
-- neighborhood map
-- location of school
-- craigslist, padmapper
-- transplants from cohort[2] _contacts_
-- transplants from cohort[1] _contacts_
-- transplants from cohort[0] _contacts_
-- shopping for furniture _once you're here_
-- Ask landlords for videos of apartments, skype, facetime, google hangout _apt hunting tips_
-  If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype.
-  
-  If you don't mind living with strangers/roommmates, craigslist is where most people in Seattle post looking for housemates.  At the very least, skype with a potential housemate and have them walk around the space, but be wary of sending money before seeing the space in person. This method of house searching is really better done in person (both for your own protection and because a lot of housemates won't rent to someone they haven't met in person), but if you have a place you can crash for about a week, you should be able to find something (good places go quickly) and it can end up being a lot cheaper than solo living, but only embark on this kind of housing search if you feel comfortable-- the place you live while in Ada needs to feel safe and drama free.
+  For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.
+  $1368.40 = Base Price of U-District (591) + (5 * 69.68) + (1 * 322) + (1 * 107)
 
+If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype. If you explain your situation some are understanding and willing to accomodate. Otherwise, some current Adies may be willing to go look at a place for you.
+
+**Housemates**  
+If you don't mind living with strangers/roommmates, craigslist is where most people in Seattle post looking for housemates.  At the very least, skype with a potential housemate and have them walk around the space, but be wary of sending money before seeing the space in person. This method of house searching is really better done in person (both for your own protection and because a lot of housemates won't rent to someone they haven't met in person), but if you have a place you can crash for about a week, you should be able to find something (good places go quickly) and it can end up being a lot cheaper than solo living, but only embark on this kind of housing search if you feel comfortable-- the place you live while in Ada needs to feel safe and drama free.
+
+**Resources**  
 [Padmapper](http://www.padmapper.com/search/apartments/Washington/Seattle/)  
 [Craigslist - Seattle](http://seattle.craigslist.org/)  
 [Lee & Associates](http://www.leeandassociatespm.com/)  
 [Windermere Property Management](http://www.wpmnorthwest.com/rentals)  
 [Hamilton Urban Partners](https://www.hamiltonurban.com/residents/listings/seattle/)  
-[Roomster](link?) _charge for membership, houseshare_  
 
-
-##Getting Your Things to Seattle
-There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
-
-- Ship boxes to yourself via: USPS, UPS, FedEx, [Amtrak](http://www.amtrak.com/express-shipping)
-- Shipping a bike: [shipBikes.com](http://www.shipbikes.com)
-- Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
-- Moving companies
-- Driving: pack what you can into your car
-
-Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
 
 
 ##Neighborhoods
@@ -143,36 +133,48 @@ This is where the University of Washington is located, so there are a lot of ren
 **West Seattle**  
 People often think of West Seattle as being really far away because you have to cross a bridge to get there, but it isn't actually that far away, especially from downtown, buses run fairly frequently and late. That being said, make sure you are close to a downtown bus route on the West Seattle side. It has a great retail area, Alki beach (which is the peninsula that looks back toward downtown), great parks, a nice farmer's market, good grocery options, and more housing than cap/first hill. Some people say that people who live in West Seattle don't leave unless they have to-- it is definitely a distinctive community. There is also a water taxi to downtown from the east side of Alki, but it doesn't run that frequently or year round, so it is more of a fun adventure than a regular commuting option.
 
-##Getting Around
 
-**Walking**  
-  Don't be afraid to walk for transportation, if you live close enough. It might be a good idea to avoid heels until you get used to the hills and your feet adjust, but lots of Adies walk to class. Google Maps gives good estimates of how long it should take you to walk -- but don't forget to reverse the directions (e.g. look at how long it takes to walk _to_ Ada, and then hit reverse to see how long it takes to walk home _from_ Ada). The hills make the different directions take different times, and Google Maps accounts for this.
 
-**[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**  
-  So… you’re poor! Since it’s likely you’ll have zero income once attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus fare! To apply for a reduced fare bus pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices and provide proof of your eligibility and your identity.
-  We’ll warn you now: there are tons of locations, with tons of different hours. There's [one near Ada](http://www.kingcounty.gov/healthservices/health/locations/downtown.aspx) that's open 8am - 5pm. If you have your paperwork ready and show up right when they open (so there's little chance of a line), you can easily be out in 10-15 minutes.
-  They make you prove your income, and they have [tons of different options](http://metro.kingcounty.gov/programs-projects/orca-lift/to-qualify.html) for how to do that. Read carefully, and show up prepared. If you get Apple Health before you get the ORCA LIFT pass, they'll have it on file and you won't need to prove your income again. You can sign up for both of these at the same time if you'd like.
-  Note: If you don't have any qualifying documentation to show your income, you can submit a request for your employment history (which can be done at the enrollment office). Expect it to take about a week, but you can ask the enrollment office to mail your ORCA LIFT card to your home so you don’t have to find another time to visit during their limited hours.
-  Note2: If you’re applying for the free Apple Care healthcare (which you can do at some of the ORCA LIFT enrollment offices), you’ll be able to skip this step since your lack of income will be verified then.
+##Getting to Seattle
+- **Flying**  
+  - So you plan on flying here...see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
+- **Driving**  
+  -  Two options to get your car here:
+    - _Shipping_: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
+    - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
+  - **Parking**  
+    If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
-**Bus Apps**
-  There are a couple of apps that can tell you which buses to take to get home.
-  - OneBusAway: locate your bus stop on the map and this app will tell you roughly when a bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make it's stop and how to get around.
-  - Google Maps: Just like you would use this for driving or walking around, Google Maps will tell you which routes to take to get to your destination. Use this in conjunction with OneBusAway for optimum bus trip planning.
-  - TripPlanner: This app exists and isn't so great. It's made by the county and should be more helpful. Stick with OneBusAway and Google Maps.
 
-**Biking**
-  If you're new to Seattle, here's a warning: the hills are no joke. The thing about the hills is that there aren't a bunch of little hills.... it's that Seattle itself can seem like one GIANT hill. Depending on where you live, it can be a good 30 minute ride uphill the entire way. (It makes getting _to_ Ada easy, though!)
-  That being said, it's not a huge deal as long as you don't have a fixed-gear bike, and as long as you shift down. Don't sprint up the hills -- take your time. And don't feel silly if you get off and walk for a particularly steep block or two -- lots of people do it.
 
-**The Ferry**
-  We _strongly_ recommend not living far enough away that you need to take the ferry, simply because commuting takes so much time. That being said, the ferry is a smooth ride, so if you're wondering if you can work while you're on the ferry, the answer is yes.
+##Getting Your Things to Seattle
+There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
 
-**The Link**
-  - SOMEONE ELSE?
+- Ship boxes to yourself via: [USPS](https://www.usps.com/ship/welcome.htm), [UPS](http://www.ups.com/content/us/en/shipping), [FedEx](http://www.fedex.com/us/ship), [Amtrak](http://www.amtrak.com/express-shipping)
+- Shipping a bike: [shipBikes.com](http://www.shipbikes.com)
+- Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
+- Moving companies
+- Driving: pack what you can into your car
 
-**Driving**
-  We recommend leaving your car at home and not needing to drive. Take a look at the driving section of [Getting to Seattle](#how-we-got-to-seattle) for more info.
+Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
+
+
+
+##Things You May Need
+Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
+
+- **Rain Jacket(s)**  
+  Though great brand name ones can be thrifted right here in Seattle.
+
+- **Comfortable Shoes**  
+  Get ready to climb those hills! If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
+
+- **A Bike?**  
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. Read our [getting around](#getting-around) and [biking in Seattle](/car_to_bike.md) advice.
+
+- **Your Passport**  
+  Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
+
 
 
 ##Buying a Laptop
@@ -195,6 +197,40 @@ These computers are pricey enough that you don't want to be out all that money i
 If you decide to save a little money and not get a brand spanking new laptop, check out these refurbished machines from Apple. [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
+
+##Getting Around
+
+**Walking**  
+  Don't be afraid to walk for transportation, if you live close enough. It might be a good idea to avoid heels until you get used to the hills and your feet adjust, but lots of Adies walk to class. Google Maps gives good estimates of how long it should take you to walk -- but don't forget to reverse the directions (e.g. look at how long it takes to walk _to_ Ada, and then hit reverse to see how long it takes to walk home _from_ Ada). The hills make the different directions take different times, and Google Maps accounts for this.
+
+**[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**  
+  So… you’re poor! Since it’s likely you’ll have zero income once attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus fare! To apply for a reduced fare bus pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices and provide proof of your eligibility and your identity.
+  We’ll warn you now: there are tons of locations, with tons of different hours. There's [one near Ada](http://www.kingcounty.gov/healthservices/health/locations/downtown.aspx) that's open 8am - 5pm. If you have your paperwork ready and show up right when they open (so there's little chance of a line), you can easily be out in 10-15 minutes.
+  They make you prove your income, and they have [tons of different options](http://metro.kingcounty.gov/programs-projects/orca-lift/to-qualify.html) for how to do that. Read carefully, and show up prepared. If you get Apple Health before you get the ORCA LIFT pass, they'll have it on file and you won't need to prove your income again. You can sign up for both of these at the same time if you'd like.
+  Note: If you don't have any qualifying documentation to show your income, you can submit a request for your employment history (which can be done at the enrollment office). Expect it to take about a week, but you can ask the enrollment office to mail your ORCA LIFT card to your home so you don’t have to find another time to visit during their limited hours.
+  Note2: If you’re applying for the free Apple Care healthcare (which you can do at some of the ORCA LIFT enrollment offices), you’ll be able to skip this step since your lack of income will be verified then.
+
+**Bus Apps**  
+  There are a couple of apps that can tell you which buses to take to get home.
+  - OneBusAway: locate your bus stop on the map and this app will tell you roughly when a bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make it's stop and how to get around.
+  - Google Maps: Just like you would use this for driving or walking around, Google Maps will tell you which routes to take to get to your destination. Use this in conjunction with OneBusAway for optimum bus trip planning.
+  - TripPlanner: This app exists and isn't so great. It's made by the county and should be more helpful. Stick with OneBusAway and Google Maps.
+
+**Biking**  
+  If you're new to Seattle, here's a warning: the hills are no joke. The thing about the hills is that there aren't a bunch of little hills.... it's that Seattle itself can seem like one GIANT hill. Depending on where you live, it can be a good 30 minute ride uphill the entire way. (It makes getting _to_ Ada easy, though!)
+  That being said, it's not a huge deal as long as you don't have a fixed-gear bike, and as long as you shift down. Don't sprint up the hills -- take your time. And don't feel silly if you get off and walk for a particularly steep block or two -- lots of people do it. Read our [biking in seattle](/car_to_bike.md) advice.
+
+**The Ferry**  
+  We _strongly_ recommend not living far enough away that you need to take the ferry, simply because commuting takes so much time. That being said, the ferry is a smooth ride, so if you're wondering if you can work while you're on the ferry, the answer is yes.
+
+**The Link**  
+  - SOMEONE ELSE?
+
+**Driving**  
+  We recommend leaving your car at home and not needing to drive. Take a look at the driving section of [Getting to Seattle](#how-we-got-to-seattle) for more info.
+
+
+
 ##Health Care
 
 If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health -- Medicaid. You'll need the following information to apply:
@@ -208,6 +244,7 @@ You can apply online OR in person. Signing up for Apple Health can be done in co
 - Learn More: [Washington Apple Health - Medicaid](http://www.hca.wa.gov/medicaid/Pages/index.aspx)
 - Apply: [Washington Health Plan Finder](http://www.wahealthplanfinder.org) _Note: site is often down on the weekends for maintenance_
   - Create an account to apply for Apple Health
+
 
 
 ##Bringing a Pet
@@ -226,28 +263,9 @@ Be cautious about flying with your pet if they will be stowed in the cargo -- th
 Flying or driving, consider buying a calming spray or wipes to help your pet cope with traveling. They’re likely to be frightened and scared, so bring treats and remember to check in with them often.
 
 
-##Asking Questions
-If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find us on twitter using the lists started by students.
 
-- [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
-- [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
-- [Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)
-- [All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
-
-
-##How We Got to Seattle
-- **Flying**  
-  - So you plan on flying here...see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
-- **Driving**  
-  -  Two options to get your car here:
-    - _Shipping_: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
-    - _Driving_: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
-  - **Parking**  
-    If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
-
-
-##I’M IN SEATTLE!...Now What?
-Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-totally-necessary things:
+##When You Get Here
+I'm in Seattle, NOW WHAT? Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-totally-necessary things:
 
   - **Change your mailing address!**  
     USPS will charge you $1.50 to change your mailing address online, but it’s so worth it. They’ll forward your mail from your old address for about six months and they’ll also notify those sending you mail that your address has changed to the new address. (Also don’t forget to update your bank/investment info, Netflix account, social media profiles, etc.)
@@ -269,3 +287,18 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
 
   - **Garbage**  
     Just an FYI -- Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department.
+
+
+##Asking Questions  
+If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find us on twitter using the lists started by students or contact the students who have volunteered to help answer questions.
+
+**Students**
+Anita (moved from Ohio): 
+Elia (moved from Montana):
+Amira (moved from LA):
+
+
+- [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
+- [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
+- [Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)
+- [All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
