@@ -4,8 +4,7 @@ Guide for Transplants
 Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the document. We're here to help!
 
 
-Table of Contents
------------------
+##Table of Contents
 
 - [Misconceptions About Seattle](#misconceptions-about-seattle)
 - [Housing](#housing)
@@ -22,30 +21,31 @@ Table of Contents
 - [Additional Questions?](#asking-questions)
 
 
-Misconceptions About Seattle _Amira & Brandi & Kyna_
-----------------------------
-- the rain
-- Seattle freeze
+##Misconceptions About Seattle
+- **The Rain** - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
+- **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)** - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be quite friendly.
+- Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
 
-Things You Will Need _Amira & Kyna_
---------------------
+##Things You Will Need
 Seattle’s weather and terrain may be different than your home’s so make sure to include the following in your luggage:
 
 - **Rain Jacket(s)**
   Though great brand name ones can be thrifted right here in Seattle.
 
-- **Comfortable Shoes**
-  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again.
+- **Comfortable Shoes**  
+  Get ready to climb those hills! Maybe once you’ve got your city feet you can wear those pretty heels again. If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**
   Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly.
   [Read our in-depth biking guide here](/car_to_bike.md)
 
+- **Your Passport**
+  Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
 
-Housing _Amira & Elia_
--------
-**My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**
+
+##Housing
+**My Lease Doesn’t Begin Until After I Arrive… Am I Homeless?**  
 Nah, girl! We wouldn’t leave you stranded like that. Ada should have a Housing Committee of volunteers from past cohorts who are willing to house you while you look/wait for housing. Be clear whether you’re bringing a pet or are a smoker, since it might violate the terms of their lease. And don’t forget to thank your host before moving into your new place!
 
 **Seattle's 20 Day Notification**
@@ -59,8 +59,8 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 - avg pricing of apartments by neighborhood
   - [A Week of Mining Seattle's Craigslist Apartment Pricing](http://www.racketracer.com/2014/12/23/a-week-of-seattles-craigslist-apartment-pricing/)
     - Expected Rental Price equation from the article
-      SQFT = square footage in hundreds
-      BATH = # of bathrooms
+      SQFT = square footage in hundreds  
+      BATH = # of bathrooms  
       BED = # of bedrooms
 
       RENT = Base Price of neighborhood ($X) + (SQFT * 69.68) + (BATH * 322) + (BED * 107)
@@ -84,9 +84,7 @@ Seattle likes to be green and keep the Earth happy. Because of this, it is a leg
 [Roomster](link?) _charge for membership, houseshare_
 
 
-Getting Your Things to Seattle _Anita_
-------------------------------
-
+##Getting Your Things to Seattle
 There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
 
 - Ship boxes to yourself via: USPS, UPS, FedEx, Amtrak
@@ -98,8 +96,7 @@ There are several ways to get your things to Seattle. These are some of the meth
 Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
 
 
-Neighborhoods _Elia_
--------------
+##Neighborhoods
 
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
 
@@ -115,9 +112,9 @@ Known as the most LGBT friendly neighborhood. Tons of cool shops and restaurants
   - *Tacos Chukis | 219 Broadway E (Upstairs)*  _once you're here_
     Best tacos! And cheap! Totally has that delicious hole-in-the-wall vibe.
 
-
   - *Julia’s on Broadway | 300 Broadway E*  _once you're here_
     Not known for its food, but for its shows! Every Friday and Saturday Julia’s hosts Le Faux Show, a drag show of “outrageous celebrity impersonations.” Sunday brunch is taken over by a never-repeated drag show hosted by Kristie Champagne.
+
 
 **South Lake Union (SLU)**
 Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels like a Seattle neighborhood that was bleached years ago.
@@ -125,8 +122,8 @@ Home of Amazon. Bro-town. Basically where the Amazon-ians go to breed. Feels lik
 **Lower Queen Anne**
 Quieter more chill area of Seattle, that's a little more pricey. Located right by Seattle Center (home of EMP Museum and the Space Needle).
 
-**Belltown**
-Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that's it's sketchy.
+**Belltown**  
+Right next to downtown Seattle, so it's wonderfully located. Lots of restaurants, bars, shops and very walkable. Mostly flat, unlike other neighborhoods. Can get a bit rowdy and some complain that it's sketchy.
 
 **Central District**
 Info about CD
@@ -144,8 +141,7 @@ Info about Ballard
 Info about U-district
 
 
-Getting Around _Ashley_
---------------
+##Getting Around
 
 **Walking**
   Don't be afraid to walk for transportation, if you live close enough. It might be a good idea to avoid heels until you get used to the hills and your feet adjust, but lots of Adies walk to class. Google Maps gives good estimates of how long it should take you to walk -- but don't forget to reverse the directions (e.g. look at how long it takes to walk _to_ Ada, and then hit reverse to see how long it takes to walk home _from_ Ada). The hills make the different directions take different times, and Google Maps accounts for this.
@@ -183,8 +179,7 @@ Getting Around _Ashley_
   - bus
   - train
 
-Buying a Laptop _Ashley_
----------------
+##Buying a Laptop
 **Student discount**
   - Note that if you're still in college, you have access to the student discounts. It's worth checking out how much the computers cost on campus, since they sometimes will sell the older versions and will cost a bit less. Additionally, on Apple's website, you can shop with the student discount. Be sure to compare the cost of these to the regularly-priced computers -- sometimes it'll save you money, and sometimes it won't.
 
@@ -206,8 +201,7 @@ If you know someone who works at Apple, you might be able to ask them to buy the
 [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
-Health Care _Anita_
------------
+##Health Care
 
 If you're in need of healthcare coverage, once moved to Seattle you can sign up for Washington Apple Health -- Medicaid. You'll need the following information to apply:
 
@@ -222,8 +216,7 @@ You can apply online or in person. Signing up for Apple Health can be done in co
   - Create an account to apply for Apple Health
 
 
-Bringing a Pet _Amira & Ashley input_
---------------
+##Bringing a Pet
 *If you’re bringing a pet...*
 
 Think twice. Ada is a full-time commitment and you’ll likely stay after class to finish writing a program or will want to hang out for happy hour or to attend a meet-up. Expect to be home just enough to eat and sleep (you’ll have more time than that, but it’s smart not to count on it). Dogs will need more attention than you might have, so consider the well-being of your pet. Cats, birds, fish, etc. will be more forgiving that you’re not home at least eight hours a day.
@@ -239,8 +232,7 @@ Be cautious about flying with your pet if they will be stowed in the cargo -- th
 Flying or driving, consider buying a calming spray or wipes to help your pet cope with traveling. They’re likely to be frightened and scared, so bring treats and remember to check in with them often.
 
 
-Asking Questions _Anita_
-----------------
+##Asking Questions
 If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find us on twitter using the lists started by students.
 
 - [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
@@ -249,19 +241,21 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 - [All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
 
 
-Couch to Crash On _Brandi_
------------------
+##Couch to Crash On
 - contact
 
 
-How We Got to Seattle _Kyna_
----------------------
-- Flying or driving?
-- parking
+##How We Got to Seattle
+- **Flying**
+  - So you plan on flying here.. see - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
+- **Driving**
+  -  Two options to get your car here:
+    - Shipping: on average will cost ~ $1000, not to mention shipping costs for all your stuff, your plane ticket, etc. So.. honestly, why even bother?
+    - Driving: if you can, buy what you need when you get here so you can stuff your car with bare necessities and call it a day. If that doesn't work for you, renting a small UHaul trailer is a couple hundred, depending on how much space you need.
+  - Parking: If you've never lived in a big city, you may not know.. having a car in Seattle is VERY EXPENSIVE (especially in downtown)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
 
-I’M IN SEATTLE!...Now What?
----------------------------
+##I’M IN SEATTLE!...Now What?
 Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar (walking around is the best way). And don’t forget to do these easy-to-forget-but-damn-totally-necessary things:
 
   - **Change your mailing address!**
@@ -278,6 +272,7 @@ Get settled, girl! Consider planning an IKEA trip with your other cohort transpl
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things!
 
   - **Change your driver's license**
-    What's the timeline?
+    By law, you have 30 days to change your driver's license and register your car with WA. But let's be honest, you're going to have a lot on your plate. So unless you happen to have a really nosy neighbor, I wouldn't stress it too much. Just make sure you get it done.
 
   - **Car registration**
+    Just do it. When you change your driver's license.
