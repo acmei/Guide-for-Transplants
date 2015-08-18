@@ -22,8 +22,8 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 
 
 ##Misconceptions About Seattle
-- The Rain - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
-- Seattle Freeze - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be quite friendly.
+- **The Rain** - there are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf such as Texas and Louisiana). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice.
+- **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)** - you're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be quite friendly.
 - Not necessarily a misconception, but something you might not expect: for being a tech town, Seattle loves adventure! Whether it be hiking, camping, kayaking, climbing… Seattle has it all and people love to be outside*. * During the summer months (hey – something to look forward to!).
 
 
