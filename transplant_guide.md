@@ -37,7 +37,7 @@ Seattle’s weather and terrain may be different than your home’s so make sure
   Get ready to climb those hills! If you plan on walking as your main means of transport, rain boots might not be a bad idea either!
 
 - **A Bike?**
-  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. [Read our car to biking tips](/car_to_bike.md).
+  Maybe reconsider bringing your car. Parking is tough and can get really expensive. Plus, Seattle is relatively bike friendly. Read our [getting around](#getting-around) and [biking in Seattle](/car_to_bike.md) advice.
 
 - **Your Passport**
   Vancouver is _right_ there. Who knows! (Other legal documents, i.e. birth certificate, etc., could come in handy later, too.)
