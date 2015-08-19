@@ -8,7 +8,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Misconceptions About Seattle](#misconceptions-about-seattle)
 - [Housing](#housing)
 - [Neighborhoods](#neighborhoods)
-- [Getting to Seattle](#how-we-got-to-seattle)
+- [Getting to Seattle](#getting-to-seattle)
 - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
 - [Things You May Need](#things-you-may-need)
 - [Buying a Laptop](#buying-a-laptop)
@@ -49,7 +49,9 @@ _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Belltown
 - Capitol Hill
 - South Lake Union
-- Ballard 
+- First Hill
+- Ballard
+- Fremont/Wallingford
 - Pioneer Square/ID
 - Queen Anne 
 - Madison Park/Montlake 
@@ -59,12 +61,9 @@ _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Central District
 - Magnolia
 - West Seattle
+- Beacon Hill
 - Columbia City
 - Greenwood/Crown Hill
-- Shoreline
-- Lake City
-
-- First Hill, Fremont, Beacon Hill
 
 **Expected Rental Price Equation**  
   SQFT = square footage in hundreds  
