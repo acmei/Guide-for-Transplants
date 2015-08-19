@@ -20,10 +20,9 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Additional Questions?](#asking-questions)
 
 
-
 ## Misconceptions About Seattle
 - **Rain**  
-There are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice. [You can read more about our weather in this local TV station's great Seattle weather FAQ](http://www.komonews.com/weather/faq/).
+There are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice. You can read more about our weather in this local TV station's [great Seattle weather FAQ](http://www.komonews.com/weather/faq/).
 - **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)**  
 You're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be pretty friendly.
 - **Seattle loves adventure**  
@@ -95,7 +94,7 @@ Roommates are usually a lot cheaper than solo living on a monetary scale, but on
 
 ## Neighborhoods
 
-[For more detail, check out the neighborhood guide.](#)
+[For more detail, check out the neighborhood guide.](/neighborhood_guide.md)
 
 ![seattle neighborhoods](seattle-neighborhood-map.jpg "Seattle Neighborhoods")
 
@@ -114,7 +113,6 @@ Two options to get your car here:
 If you've never lived in a big city, you may not know...having a car is VERY EXPENSIVE (especially in downtown Seattle)!! Many places have their own garages but charge upwards of $200/month for parking. If you opt to not park in the building garage, the choices outside of that are scarce and/or just as expensive. Seattle public transit is pretty good. Use it.
 
 
-
 ## Getting Your Things to Seattle
 There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
 
@@ -125,7 +123,6 @@ There are several ways to get your things to Seattle. These are some of the meth
 - Driving: pack what you can into your car
 
 Be wary that shipping lots of boxes will cost a lot. This is one of the greatest if not the greatest expense when moving. Often times you'll find that the cost to ship heavier items such as furniture just isn't worth it. Some of the transplants planned an IKEA trip together to buy furniture in our first week in Seattle. If you plan to rent a microapartment, they will come prefurnished with certain furniture. If not, keep this in mind and plan to have the necessities with you when you arrive in Seattle.
-
 
 
 ## Things You May Need
@@ -142,7 +139,6 @@ Seattle’s weather and terrain may be different than your home’s so make sure
 
 - **Your Passport**  
   Vancouver is _right_ there. Who knows! (Other legal documents, e.g. your birth certificate, could come in handy later, too.)
-
 
 
 ## Buying a Laptop
@@ -165,7 +161,6 @@ These computers are pricey enough that you don't want to be out all that money i
 If you decide to save a little money and not get a brand spanking new laptop, check out these refurbished machines from Apple. [Apple Refurbished](http://store.apple.com/us/browse/home/specialdeals/mac)
 
 
-
 ## Getting Around
 
 **Walking**  
@@ -177,13 +172,12 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
 [restructure]: http://metro.kingcounty.gov/programs-projects/link-connections/
 
 
-
 **[ORCA LIFT](http://metro.kingcounty.gov/programs-projects/orca-lift/)**  
   So... you’re poor! Since it’s likely you’ll have zero income while attending Ada, it’s nice to know there are some perks with falling below the poverty line. The first of few is reduced bus & light rail fare! To apply for a reduced fare pass (the ORCA LIFT card), you’ll need to stop by one of these enrollment offices and provide proof of your eligibility and your identity.
 
   [You can read more about signing up for ORCA LIFT in the transit guide.][orcalift]
 
-  [orcalift]
+  [orcalift]: /public_transit.md
 
 **Bus Apps**  
   There are a couple of apps that can tell you which buses to take to get home.
@@ -196,14 +190,14 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
 
 **Biking**  
   If you're new to Seattle, here's a warning: the hills are no joke. The thing about the hills is that there aren't a bunch of little hills.... it's that Seattle itself can seem like one GIANT hill. Depending on where you live, it can be a good 30 minute ride uphill the entire way. (It makes getting _to_ Ada easy, though!)
-  That being said, it's not a huge deal as long as you don't have a fixed-gear bike and as long as you shift down. Don't sprint up the hills. Take your time. And don't feel silly if you get off and walk for a particularly steep block or two. Lots of people do it. Read our [biking in seattle](/car_to_bike.md) advice.
+
+  That being said, it's not a huge deal as long as you don't have a fixed-gear bike and as long as you shift down. Don't sprint up the hills. Take your time. And don't feel silly if you get off and walk for a particularly steep block or two. Lots of people do it. Read our [biking in Seattle](/car_to_bike.md) advice.
 
 **The Ferry**  
   We _strongly_ recommend not living far enough away that you need to take the ferry, simply because commuting takes so much time. That being said, the ferry is a smooth ride and often offers wifi during peak morning hours, so if you're wondering if you can work while you're on the ferry, the answer is yes.
 
 **Driving**  
   We recommend leaving your car at home and not needing to drive. Take a look at the driving section of [Getting to Seattle](#how-we-got-to-seattle) for more info.
-
 
 
 ## Healthcare
@@ -221,7 +215,6 @@ You can apply online OR in person. Signing up for Apple Health can be done in co
   - Create an account to apply for Apple Health
 
 
-
 ## Bringing a Pet
 
 Think twice. Ada is a full-time commitment and you’ll likely stay after class to finish writing a program or will want to hang out for happy hour or to attend a meet-up. Expect to be home just enough to eat and sleep (you’ll have more time than that, but it’s smart not to count on it). Dogs will need more attention than you might have, so consider the well-being of your pet. Cats, birds, fish, etc. will be more forgiving that you’re not home at least eight hours a day.
@@ -230,7 +223,8 @@ If you don't think your pet will be happy living with you while you're in Ada bu
 
 If you do decide to bring your pet, [we have some information about bringing your pet here][pet].
 
-[pet]: bringing_a_pet.md
+[pet]: /bringing_a_pet.md
+
 
 ## When You Get Here
 I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with your other cohort transplants to get some furniture in your new space. Explore your neighborhood and get familiar. Walking around is the best way. And don’t forget to do these easy-to-forget-but-totally-necessary things:
