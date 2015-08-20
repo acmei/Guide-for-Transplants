@@ -254,7 +254,7 @@ I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with
     The Seattle Public Library is an amazing public service (the central branch is 11 stories!) with many local branches that may be in your neighborhood. All you need is proof of a local mailing address (bring in a piece of mail or a copy of your lease) and you’ll have access to all the things! Said things include free admission to local museums if you book the tickets through the library system! Totally worth it.
 
   - **Change your driver's license**  
-    By law, you have 30 days to change your driver's license and register your car with WA. But let's be honest, you're going to have a lot on your plate. So unless you happen to have a really nosy neighbor, I wouldn't stress it too much. Just make sure you get it done.
+    By law, you have 30 days to change your driver's license and register your car with WA. But let's be honest, you're going to have a lot on your plate. Just make sure you get it done at some point.
 
   - **Car registration**  
     Just do it when you change your driver's license.
@@ -262,9 +262,11 @@ I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with
   - **Garbage**  
     Just an FYI -- Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department. A bonus if you're paying for these utilities: recycling is free & compost is cheaper per square foot / size of container than trash. You're welcome. ;)
 
+  - **Banking**
+    You may want to investigate this before arriving, but if you currently have a regional bank it will be likely that you'll need to use a different bank upon arrival. Be prepared with your existing bank account information so that you can easily open a new account. Depending on your personal preferences, you can choose a national bank that has branches all over the country, or you can choose a local branch for more personalized service. A few local branches are: BECU, Sound Community, Umpqua & Banner Bank.
 
 ## Asking Questions  
-If you have any addtiional questions, feel free to reach out to us via email or twitter.
+If you have any additional questions, feel free to reach out to us via email or twitter.
 
 **Student Volunteers**  
 [Anita (moved from Ohio)](mailto:asovay@gmail.com?Subject=Ada%20Transplant)  
