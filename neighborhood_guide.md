@@ -12,7 +12,7 @@ The oldest neighborhood in Seattle! There are sometimes cheap studios and one be
 
 _Street addresses: sometimes no directional & sometimes S._
 
-It is right next to Pioneer Square, and there is not a super clear line of deliniation between the two neighborhoods, so a lot of the commentary about Pioneer Square applies here. As the name implies, it is an eclectic neighborhood, and there is a lot of really delicious, fairly affordable places to eat, including a lot of chinese, vietnamese and korean restaurants. The further west (away from downtown) you go in the ID the more residential it becomes. Main grocery stores are asian markets (like Uwajimaya & Viet Wah).
+It is right next to Pioneer Square, and there is not a super clear line of deliniation between the two neighborhoods, so a lot of the commentary about Pioneer Square applies here. As the name implies, it is an eclectic neighborhood, and there is a lot of really delicious, fairly affordable places to eat, including chinese, vietnamese and korean restaurants. The further west (away from downtown) you go in the ID the more residential it becomes. Main grocery stores are asian markets (like Uwajimaya & Viet Wah).
 
 ### South Lake Union (SLU)
 
@@ -70,7 +70,7 @@ Ballard is kind of new hipster central in Seattle, with new craft cocktail gastr
 
 Getting downtown via transit isn't impossible, but because it is further west, it can make getting to some internships inconvenient at times. It would not be very convenient to commute to an Eastside (Bellevue, Kirkland, Redmond) internship or job. If you are already coming from an hour plus commute, this might not be an issue for you.
 
-### South Seattle, AKA-- West Seattle, White Center, Beacon Hill, Mount Baker, Columbia City
+### South Seattle AKA West Seattle, White Center, Beacon Hill, Mount Baker, Columbia City
 
 _Street addresses: SW, S._
 
@@ -92,4 +92,4 @@ Beacon hill is a great neighborhood with an excellent community center, its very
 
 _Street addresses: S._
 
-These neighborhoods rock. A lot of the older restaurants, bars, and corner stores are still intact in these neighborhoods, and there are a ton of large grocery stores and markets. Columbia City has a fantastic farmers market and a short, fairly recently gentrified strip of restaurants and bars. Alas, the magical greek restaurant & laundromat has shut down.
+These neighborhoods rock but are a bit far from the action of downtown. A lot of the older restaurants, bars, and corner stores are still intact in these neighborhoods, and there are a ton of large grocery stores and markets. Columbia City has a fantastic farmers market and a short, fairly recently gentrified strip of restaurants and bars. Alas, the magical greek restaurant & laundromat has shut down.
