@@ -69,7 +69,7 @@ A microapartment is a furnished, one-room, living space (kind of like a dorm roo
 8. Pioneer Square/ID
 9. Queen Anne
 10. Madison Park/Montlake
-11. University District _more expensive in late summer and fall_
+11. University District (_more expensive in late summer and fall_)
 12. Greenlake / Ravenna / Wedgewood / Bryant / View Ridge
 13. Central District
 14. Magnolia
