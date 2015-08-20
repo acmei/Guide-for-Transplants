@@ -79,12 +79,13 @@ _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Columbia City
 - Greenwood/Crown Hill
 
-If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype. If you explain your situation some are understanding and willing to accomodate. Otherwise, some current Adies may be willing to go look at a place for you.
-
 **Housemates**  
 If you don't mind living with strangers / roommmates, craigslist is where most people in Seattle post looking for housemates. This method of apartment hunting is really better done in person, both for your own protection and because a lot of housemates won't rent to someone they haven't met in person. At the very least, skype with a potential housemate and have them walk around the space. Be wary of sending money before seeing the space in person.
 
-If you have a place you can crash for about a week, you should be able to find something. But watch out-- good places go quickly! Come prepared with all the details you'll need to fill out housing applications. If you really like a place and can find the application online, you can get a step ahead of other applicants by bringing your already filled out application with you.
+**General Advice**
+If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype. If you explain your situation some are understanding and willing to accomodate. Otherwise, some current Adies may be willing to go look at a place for you.
+
+If you'd rather look in person and have a place you can crash for about a week, you should be able to find something. But watch out-- good places go quickly! Come prepared with all the details you'll need to fill out housing applications (bank statements or proof that you're able to pay your rent). If you really like a place and can find the application online, you can get a step ahead of other applicants by bringing your already filled out application with you.
 
 Roommates are usually a lot cheaper than solo living on a monetary scale, but only embark on this kind of housing search if you feel comfortable. The place you live while attending Ada needs to feel safe and drama-free, so you can relax from the stress of 40 to 60 hours a week intensively studying.
 
