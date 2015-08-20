@@ -55,7 +55,7 @@ A microapartment is a furnished, one-room, living space (kind of like a dorm roo
 
   RENT = Base Price of neighborhood ($X) + (SQFT * 69.68) + (BATH * 322) + (BED * 107)
 
-  For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.
+  For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.  
   $1368.40 = Base Price of U-District (591) + (5 * 69.68) + (1 * 322) + (1 * 107)
 
 _Neighborhoods in Order from Most Expensive to Least Expensive_:
