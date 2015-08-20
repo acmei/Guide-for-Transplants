@@ -15,9 +15,13 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Health Care](#health-care)
 - [Bringing a Pet](#bringing-a-pet)
 - [Getting Around](#getting-around)
-  - [Biking in Seattle](/car_to_bike.md)
 - [When You Get Here](#when-you-get-here)
 - [Additional Questions?](#asking-questions)
+- **Extra Info on These Topics**:
+  - [Seattle's Neighborhoods](/neighborhood_guide.md)
+  - [Biking in Seattle](/car_to_bike.md)
+  - [Public Transit][orcalift]
+  - [Bringing A Pet][pet]
 
 
 
