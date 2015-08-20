@@ -262,7 +262,7 @@ I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with
   - **Garbage**  
     Just an FYI -- Seattle likes to be green and keep the Earth happy. Because of this, it is a legal requirement for people to both recycle and compost in addition to just regularly throwing things away. Recycling is in the blue bin and compost in the green bin. Recycling, regular trash, and compost are all picked up by the waste department. A bonus if you're paying for these utilities: recycling is free & compost is cheaper per square foot / size of container than trash. You're welcome. ;)
 
-  - **Banking**
+  - **Banking**  
     You may want to investigate this before arriving, but if you currently have a regional bank it will be likely that you'll need to use a different bank upon arrival. Be prepared with your existing bank account information so that you can easily open a new account. Depending on your personal preferences, you can choose a national bank that has branches all over the country, or you can choose a local branch for more personalized service. A few local branches are: BECU, Sound Community, Umpqua & Banner Bank.
 
 ## Asking Questions  
