@@ -62,7 +62,6 @@ Bike lanes that are painted green are a signal for areas where bikes and cars ma
 
 Locking Your Bike
 -----------------
-
 There are tons of bike racks around, on the street or in parking garages, so you should never have trouble finding one.
 
 If your wheels are quick-release, consider buying two locks: a hefty U-Lock and a thick chain lock. The U-Lock should go around your wheel, the parking rack, and the frame of your bike. The chain can go around your rear wheel and the parking rack. The chain lock isn’t necessary since rear wheels are more custom than front wheels, but it’s nice to not worry about it ever being stolen.
@@ -81,7 +80,6 @@ Never fear! Loading your bike might be nerve-wracking the first time, but you’
 
 Bike Know-Hows
 --------------
-- look at google forum for questions we asked
 - Make sure your brakes are in decent condition.
   - New brake pads are cheap, and totally worth it if your brakes are wearing
     down or have gotten a bit hard with age.
