@@ -58,25 +58,25 @@ A microapartment is a furnished, one-room, living space (kind of like a dorm roo
   For example, a 500sqft. 1bdr/1bath apartment in U-District would be approx.  
   $1368.40 = Base Price of U-District (591) + (5 * 69.68) + (1 * 322) + (1 * 107)
 
-##### Neighborhoods in Order from Most Expensive to Least Expensive:
-- Downtown
-- Belltown
-- Capitol Hill
-- South Lake Union
-- First Hill
-- Ballard
-- Fremont/Wallingford
-- Pioneer Square/ID
-- Queen Anne
-- Madison Park/Montlake
-- University District - more expensive in late summer and fall
-- Greenlake / Ravenna / Wedgewood / Bryant / View Ridge
-- Central District
-- Magnolia
-- West Seattle
-- Beacon Hill
-- Columbia City
-- Greenwood/Crown Hill
+##### Neighborhoods in Order from Most Expensive to Least Expensive
+1. Downtown
+2. Belltown
+3. Capitol Hill
+4. South Lake Union
+5. First Hill
+6. Ballard
+7. Fremont/Wallingford
+8. Pioneer Square/ID
+9. Queen Anne
+10. Madison Park/Montlake
+11. University District - more expensive in late summer and fall
+12. Greenlake / Ravenna / Wedgewood / Bryant / View Ridge
+13. Central District
+14. Magnolia
+15. West Seattle
+16. Beacon Hill
+17. Columbia City
+18. Greenwood/Crown Hill
 
 **Housemates**  
 If you don't mind living with strangers / roommmates, craigslist is where most people in Seattle post looking for housemates. This method of apartment hunting is really better done in person, both for your own protection and because a lot of housemates won't rent to someone they haven't met in person. At the very least, skype with a potential housemate and have them walk around the space. Be wary of sending money before seeing the space in person.
