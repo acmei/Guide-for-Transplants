@@ -265,7 +265,7 @@ I'm in Seattle. NOW WHAT? Get settled, girl! Consider planning an IKEA trip with
 
 
 ## Asking Questions  
-If you have any addtiional questions, feel free to reach out to us via email or twitter. You can find most of us on twitter or contact the students who have volunteered to help answer questions.
+If you have any addtiional questions, feel free to reach out to us via email or twitter.
 
 **Students**  
 [Anita (moved from Ohio)](mailto:asovay@gmail.com?Subject=Ada%20Transplant)  
@@ -273,7 +273,7 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 [Amira (moved from California)](mailto:amira.dhaile@gmail.com?Subject=Ada%20Transplant)  
 [Jeri (Seattle born & raised)](mailto:drvonnjerryxlii@gmail.com?Subject=Ada%20Transplant)  
 
-[Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)
-[Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)
-[Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)
-[All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)
+[Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)  
+[Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)  
+[Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)  
+[All Ada Students & Graduates](https://twitter.com/SeattleRubySue/lists/ada-students-graduates)  
