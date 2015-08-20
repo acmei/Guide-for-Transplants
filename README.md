@@ -63,7 +63,6 @@ _Neighborhoods in Order from Most Expensive to Least Expensive_:
 - Belltown
 - Capitol Hill
 - South Lake Union
-- Ballard
 - First Hill
 - Ballard
 - Fremont/Wallingford
