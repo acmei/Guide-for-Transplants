@@ -273,7 +273,7 @@ If you have any addtiional questions, feel free to reach out to us via email or 
 [Amira (moved from California)](mailto:amira.dhaile@gmail.com?Subject=Ada%20Transplant)  
 [Jeri (Seattle born & raised)](mailto:drvonnjerryxlii@gmail.com?Subject=Ada%20Transplant)
 
-**Twitter**
+**Twitter**  
 [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)  
 [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)  
 [Cohort 3 Twitter List](https://twitter.com/QuartzBrandi/lists/ada-2)  
