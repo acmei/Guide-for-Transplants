@@ -191,12 +191,12 @@ If you decide to save a little money and not get a brand spanking new laptop, ch
 
 **Bus Apps**  
   There are a couple of apps that can tell you which buses to take to get home.
-  - _OneBusAway_: Arguably the best bus app available in Seattle. Locate your bus stop on the map and this app will tell you roughly when the bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make it's stop and how to get around.
+  - _OneBusAway_: Arguably the best bus app available in Seattle. Locate your bus stop on the map and this app will tell you roughly when the bus will arrive. Used in conjunction with Google maps, this is a fantastic way to know when you should expect your bus to make its stop and how to get around.
   - _Google Maps_: Just like you would use this for driving or walking around, Google Maps will tell you which routes to take to get to your destination. Use this in conjunction with OneBusAway for optimum bus trip planning.
   - _TripPlanner_: This app exists and isn't so great. It's made by the county and should be more helpful. Stick with OneBusAway and Google Maps.
 
 **The Link**  
-  The Link is awesome! It is the most direct form of public transit from the airport to Seattle and it's surrounding neighborhoods. Currently it's route is limited but is going through the process of expanding to other neighborhoods (expected to finish in 2016). It has right-of-way during peak hours, which means the train sends a signal ahead and the lights change to stop cars at intersections ahead of the train. It also runs every 7 minutes during peak, and that time will reduce to every 5 minutes in the spring or summer when the extension to the U-District is officially open.
+  The Link is awesome! It is the most direct form of public transit from the airport to Seattle and its surrounding neighborhoods. Currently its route is limited but is going through the process of expanding to other neighborhoods (expected to finish in 2016). It has right-of-way during peak hours, which means the train sends a signal ahead and the lights change to stop cars at intersections ahead of the train. It also runs every 7 minutes during peak, and that time will reduce to every 5 minutes in the spring or summer when the extension to the U-District is officially open.
 
 **Biking**  
   If you're new to Seattle, here's a warning: the hills are no joke. The thing about the hills is that there aren't a bunch of little hills.... it's that Seattle itself can seem like one GIANT hill. Depending on where you live, it can be a good 30 minute ride uphill the entire way. (It makes getting _to_ Ada easy, though!)
