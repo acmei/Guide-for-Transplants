@@ -48,6 +48,8 @@ When biking at night, it’s important to be seen. Make sure your bike is equipp
 
 If biking is your primary mode of transportation, you might want to consider racks and panniers for storage. (Panniers can be pricey, but there are some make-your-own options online. Do what sounds best to you.) Biking with a backpack is inefficient in terms of space and can get pretty sweaty on your back when you’re climbing those hills. A rack that can hold 50 lbs and panniers that hold about 25 lbs each should be sufficient to hold a week’s worth of groceries for a single person.
 
+Don't forget to invest in waterproof panniers or a cycling bag if you plan to bike commute during all types of weather. You don't want your technology to get soaked!
+
 There are requirements for reflectors as well as helmets. You can read more about these requirements and rules [here](http://www.seattle.gov/transportation/bikecode.htm). Section 11.44.160 is on lamps and reflectors.
 
 
@@ -100,3 +102,13 @@ Bike Know-Hows
     - Go for the same when you pick up that jacket or those reflectors you'll
       hang on your backpack / panniers. _If it's painful for you to look at up
       close, cars will actually be able to see you in the dark or rain._
+
+Seattle Bike Community Resources
+--------------------------------
+[Seattle Greenways Map]: http://www.seattle.gov/transportation/greenwaysworkplan.htm
+
+[Cascade Bicycle Club]: http://www.cascade.org/
+
+[Seattle Bike Blog]: http://www.seattlebikeblog.com/
+
+[Bike "Squiggles" - Seattle Routes for Avoiding Inclines]: http://www.prontocycleshare.com/squiggles
