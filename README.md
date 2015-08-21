@@ -1,6 +1,6 @@
 Ada Guide for Transplants
 =========================
-Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lots of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the guide. We're here to help!
+Congratulations and welcome to Ada Developers Academy! This guide was written by a few transplants of Ada Cohort 3. We thought it would have been nice to have an orientation packet to help us move from our current homes to Seattle, so here it is. First of all, this is a huge step and while it may seem scary, try not to fret. You have a lot of supporters at Ada Developers Academy and hopefully this guide will help you get started. If you'd like more personal help or to chat one on one, feel free to contact any of the people listed at the bottom of the guide. We're here to help!
 
 
 
@@ -27,7 +27,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 
 ## Misconceptions About Seattle
 - **Rain**  
-There are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continous drizzle. And during the summer it is quite dry and nice. You can read more about our weather in this local TV station's [great Seattle weather FAQ](http://www.komonews.com/weather/faq/).
+There are plenty of places that get just as much, if not more rain than Seattle (i.e. states bordering the gulf). If anything, it can be overcast a lot of the time. When it does rain, it's more of a continuous drizzle. And during the summer it is quite dry and nice. You can read more about our weather in this local TV station's [great Seattle weather FAQ](http://www.komonews.com/weather/faq/).
 - **[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)**  
 You're moving here with 23 built-in friends!! Then you'll meet their friends, and they'll meet you – even more friends! Outside of that, like anywhere else, it depends on the person. Once you're in your internship, you'll have more free time and it'll be much easier to do activities outside of Ada (and meet new people). Generally, people in Seattle can be pretty friendly.
 - **Seattle loves adventure**  
@@ -70,7 +70,7 @@ A microapartment is a furnished, one-room, living space (kind of like a dorm roo
 9. Queen Anne
 10. Madison Park/Montlake
 11. University District (_more expensive in late summer and fall_)
-12. Greenlake / Ravenna / Wedgewood / Bryant / View Ridge
+12. Greenlake / Ravenna / Wedgwood / Bryant / View Ridge
 13. Central District
 14. Magnolia
 15. West Seattle
@@ -79,10 +79,10 @@ A microapartment is a furnished, one-room, living space (kind of like a dorm roo
 18. Greenwood/Crown Hill
 
 **Housemates**  
-If you don't mind living with strangers / roommmates, craigslist is where most people in Seattle post looking for housemates. This method of apartment hunting is really better done in person, both for your own protection and because a lot of housemates won't rent to someone they haven't met in person. At the very least, skype with a potential housemate and have them walk around the space. Be wary of sending money before seeing the space in person.
+If you don't mind living with strangers / roommates, craigslist is where most people in Seattle post looking for housemates. This method of apartment hunting is really better done in person, both for your own protection and because a lot of housemates won't rent to someone they haven't met in person. At the very least, Skype with a potential housemate and have them walk around the space. Be wary of sending money before seeing the space in person.
 
 **General Advice**  
-If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype. If you explain your situation some are understanding and willing to accomodate. Otherwise, some current Adies may be willing to go look at a place for you.
+If you can't come to Seattle to see the place yourself, ask the landlord to take pictures, send you a video tour or even walk you around via Skype. If you explain your situation some are understanding and willing to accommodate. Otherwise, some current Adies may be willing to go look at a place for you.
 
 If you'd rather look in person and have a place you can crash for about a week, you should be able to find something. But watch out-- good places go quickly! Come prepared with all the details you'll need to fill out housing applications (bank statements or proof that you're able to pay your rent). If you really like a place and can find the application online, you can get a step ahead of other applicants by bringing your already filled out application with you.
 
@@ -273,7 +273,7 @@ If you have any additional questions, feel free to reach out to us via email or 
 [Elia (moved from Montana)](mailto:elgrenier@gmail.com?Subject=Ada%20Transplant)  
 [Amira (moved from California)](mailto:amira.dhaile@gmail.com?Subject=Ada%20Transplant)  
 [Jeri (Seattle born & raised)](mailto:drvonnjerryxlii@gmail.com?Subject=Ada%20Transplant)
-
+[Loraine (moved to Seattle from Hawaii in 2011)](mailto:loraine@lorainekv.com?Subject=Ada%20Transplant)
 **Twitter**  
 [Cohort 1 Twitter List](https://twitter.com/SeattleDae/lists/the-adies-0)  
 [Cohort 2 Twitter List](https://twitter.com/kmmpatke/lists/ada-1)  

@@ -56,6 +56,8 @@ _Street addresses: NE._
 
 This is where the University of Washington is located, so there are a lot of rental properties in this area. Expect to find a lot of students in this neighborhood, which can be both good and bad-- kind of depends on how you feel about large numbers of 18-22 year olds. There are a lot of cheap, fast places to eat and coffee shops that are open late. It is a good place to look for sublets, but realize that your housemates may be college students and it is hard (aka stressful) to move during Ada. It has accessible transit to downtown, but it is a bit further away than some neighborhoods and is a somewhat hilly bike commute. In 2016, the light rail will connect through Capitol Hill (Broadway & John) to the Montlake side of the U District.
 
+U District is  an excellent location for thrift shopping, since Buffalo Exchange, Goodwill, and Red Light Vintage run along The Ave. If you're on a budget, this is a great area to look for seasonal clothes, since many UW students leave like-new belongings behind!
+
 ### Fremont
 
 _Street addresses: NW._
