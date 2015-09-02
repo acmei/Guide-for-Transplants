@@ -12,7 +12,7 @@ Congratulations and welcome to Ada Developers Academy! This guide was written by
 - [Getting Your Things to Seattle](#getting-your-things-to-seattle)
 - [Things You May Need](#things-you-may-need)
 - [Buying a Laptop](#buying-a-laptop)
-- [Health Care](#health-care)
+- [Health Care](#healthcare)
 - [Bringing a Pet](#bringing-a-pet)
 - [Getting Around](#getting-around)
 - [When You Get Here](#when-you-get-here)
