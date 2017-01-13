@@ -123,7 +123,7 @@ If you've never lived in a big city, you may not know...having a car is VERY EXP
 ## Getting Your Things to Seattle
 There are several ways to get your things to Seattle. These are some of the methods the transplants from Cohort 3 used:
 
-- Ship boxes to yourself via: [USPS](https://www.usps.com/ship/welcome.htm), [UPS](http://www.ups.com/content/us/en/shipping), [FedEx](http://www.fedex.com/us/ship), [Amtrak](http://www.amtrak.com/express-shipping)
+- Ship boxes to yourself via: [Greyhound](http://www.busfreighter.com), [USPS](https://www.usps.com/ship/welcome.htm), [UPS](http://www.ups.com/content/us/en/shipping), [FedEx](http://www.fedex.com/us/ship), [Amtrak](http://www.amtrak.com/express-shipping)
 - Shipping a bike: [shipBikes.com](http://www.shipbikes.com)
 - Luggage: usually $25 for each checked bag on airlines, limit of 50lbs. per bag
 - Moving companies: For those with larger households to move, take a look at [U-Pack Moving](http://www.upack.com).
